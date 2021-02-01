@@ -10,8 +10,7 @@
 6. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
    *  Project Need to Implement
       *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
-
-
+      *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
  * [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
  * [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    *  [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
