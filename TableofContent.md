@@ -8,11 +8,11 @@
 5. [Machine Learning End to End](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    *  [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
 6. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
-   *  Project Need to Implement
-      *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
-      *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
-      *  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
-      *  [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
+7. [Project Need to Implement]
+   *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
+   *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
+   *  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
+   *  [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
  * [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
  * [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    *  [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
