@@ -12,6 +12,7 @@
    *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
    *  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
+   *  [500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)
    *  [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python?fbclid=IwAR2MLkXOEzDCwUe0wu5oMyjkQNPtgu5YXB5CDpyy1OnJkUgbismV1oPbsrY)
    *  [Face-Mask-Detection-Using-Google-Colab](https://github.com/kvnptl/Face-Mask-Detection-Using-Google-Colab)
    *  [Face Mask Detection using Python, Keras, OpenCV and MobileNet | Detect masks real-time video streams](https://www.youtube.com/watch?v=Ax6P93r32KU)
