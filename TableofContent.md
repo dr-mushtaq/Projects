@@ -12,6 +12,8 @@
    *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
    *  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
+   *  [TOP 10 OPENCV PROJECTS in 2020](https://www.murtazahassan.com/courselist/)
+   *  [Opencv Projects](https://www.murtazahassan.com/courses/opencv-projects/)
    *  [Deep Learning for Air Quality Prediction](https://medium.com/analytics-vidhya/deep-learning-for-air-quality-prediction-b451e2936290)
    *  [Machine Learning Projects | using python | with code | for college students](https://www.youtube.com/watch?v=MIgg4aiNo4Q&feature=youtu.be&fbclid=IwAR0Mbswz_rsJp3ulwwHO0vC7DI97-9YezY9rZ0wFRts14tUVfrV3ojcL9Eo)
    *  [Text Classification Using Convolutional Neural Networks](https://www.youtube.com/watch?v=8YsZXTpFRO0)
