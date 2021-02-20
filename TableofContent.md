@@ -23,7 +23,7 @@
    7.  [Machine Learning Projects | using python | with code | for college students](https://www.youtube.com/watch?v=MIgg4aiNo4Q&feature=youtu.be&fbclid=IwAR0Mbswz_rsJp3ulwwHO0vC7DI97-9YezY9rZ0wFRts14tUVfrV3ojcL9Eo)
    8.  [Text Classification Using Convolutional Neural Networks](https://www.youtube.com/watch?v=8YsZXTpFRO0)
    9.  [project-based-learning](https://github.com/tuvtran/project-based-learning#python)
-   10.  [500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)
+   10.  [**500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲**](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)
    11.  [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python?fbclid=IwAR2MLkXOEzDCwUe0wu5oMyjkQNPtgu5YXB5CDpyy1OnJkUgbismV1oPbsrY)
    12.  [Face-Mask-Detection-Using-Google-Colab](https://github.com/kvnptl/Face-Mask-Detection-Using-Google-Colab)
    13.  [Face Mask Detection using Python, Keras, OpenCV and MobileNet | Detect masks real-time video streams](https://www.youtube.com/watch?v=Ax6P93r32KU)
