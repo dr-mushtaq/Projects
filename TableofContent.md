@@ -32,25 +32,4 @@
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
    3.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
- * [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
-   *  [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-   *  [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-   *  [Monk_Object_Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo?fbclid=IwAR28SZ6iTsr4VnL1oXoylQJjt7Xls2D1lKN4FPNHNOiEGapiKT7vJtTuQig)
-   *  [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
- * [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
-   *  [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
-   *  [Decision_Trees](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Decision_Trees.ipynb)
-   *  [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
-   *  [Model_Evaluation_&_Scoring_Matrices](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Model_Evaluation_%26_Scoring_Matrices%20(1).ipynb)
-   *  [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
-   *  [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
-
-   dfdfkk
-   
-   
-
-s
-
-
-
-
+ 
