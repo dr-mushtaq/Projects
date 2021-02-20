@@ -1,7 +1,7 @@
 # Table of Content
 
 ## Tabl of Content
-1. [Computer Vision](https://github.com/hussain0048/Projects-/tree/master/Computer%20Vision)
+1. [**Computer Vision**](https://github.com/hussain0048/Projects-/tree/master/Computer%20Vision)
 2. [DL](https://github.com/hussain0048/Projects-/tree/master/DL)
 3. [Freelancer](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
 4. [ML](https://github.com/hussain0048/Projects-/tree/master/ML)
