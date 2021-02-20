@@ -1,10 +1,10 @@
 # Table of Content
 
 ## Tabl of Content
-1. **[Computer Vision]**(https://github.com/hussain0048/Projects-/tree/master/Computer%20Vision)
-2. **[DL]**(https://github.com/hussain0048/Projects-/tree/master/DL)
-3. **[Freelancer]**(https://github.com/hussain0048/Projects-/tree/master/Freelancer)
-4. **[ML]**(https://github.com/hussain0048/Projects-/tree/master/ML)
+1. [Computer Vision](https://github.com/hussain0048/Projects-/tree/master/Computer%20Vision)
+2. [DL](https://github.com/hussain0048/Projects-/tree/master/DL)
+3. [Freelancer](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
+4. [ML](https://github.com/hussain0048/Projects-/tree/master/ML)
 5.  *  [Stock_Price_Prediction_using_Linear_Regression.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Stock_Price_Prediction_using_Linear_Regression.ipynb)
 6.  *  [Movie_Recommender_9_26_2020.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Movie_Recommender_9_26_2020.ipynb)
 7.  *  [Predict_IPL_Winner_with_ML.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Predict_IPL_Winner_with_ML.ipynb)
