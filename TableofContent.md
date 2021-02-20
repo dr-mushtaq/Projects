@@ -28,10 +28,10 @@
    12.  [Face-Mask-Detection-Using-Google-Colab](https://github.com/kvnptl/Face-Mask-Detection-Using-Google-Colab)
    13.  [Face Mask Detection using Python, Keras, OpenCV and MobileNet | Detect masks real-time video streams](https://www.youtube.com/watch?v=Ax6P93r32KU)
    14.  [Monk_Object_Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo?fbclid=IwAR28SZ6iTsr4VnL1oXoylQJjt7Xls2D1lKN4FPNHNOiEGapiKT7vJtTuQig)
-  7. Important Website For Projects
-  *  [dataspoof](https://www.dataspoof.info/)
-   *  [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
- * [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
+8. **Important Website For Projects**
+   1.   [dataspoof](https://www.dataspoof.info/)
+   2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
+   3.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
  * [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    *  [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
    *  [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
