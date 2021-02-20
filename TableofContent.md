@@ -5,10 +5,11 @@
 2. [DL](https://github.com/hussain0048/Projects-/tree/master/DL)
 3. [Freelancer](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
 4. [ML](https://github.com/hussain0048/Projects-/tree/master/ML)
-5. [Machine Learning End to End](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
+5.  *  [Stock_Price_Prediction_using_Linear_Regression.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Stock_Price_Prediction_using_Linear_Regression.ipynb)
+6. [Machine Learning End to End](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    *  [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
-6. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
-7. Project Need to Implement
+7. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
+8. Project Need to Implement
    *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
    *  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
