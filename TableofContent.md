@@ -6,10 +6,13 @@
 3. [Freelancer](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
 4. [ML](https://github.com/hussain0048/Projects-/tree/master/ML)
 5.  *  [Stock_Price_Prediction_using_Linear_Regression.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Stock_Price_Prediction_using_Linear_Regression.ipynb)
-6. [Machine Learning End to End](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
+6.  *  [Movie_Recommender_9_26_2020.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Movie_Recommender_9_26_2020.ipynb)
+7.  *  [Predict_IPL_Winner_with_ML.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Predict_IPL_Winner_with_ML.ipynb)
+8.  *  [Credit_Card_Fraud_Detection_DT_and_RF.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Credit_Card_Fraud_Detection_DT_and_RF.ipynb)
+9. [Machine Learning End to End](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    *  [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
-7. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
-8. Project Need to Implement
+10. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
+11. Project Need to Implement
    *  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    *  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
    *  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
