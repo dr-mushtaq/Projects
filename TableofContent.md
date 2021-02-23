@@ -29,8 +29,11 @@
    13.  [Face Mask Detection using Python, Keras, OpenCV and MobileNet | Detect masks real-time video streams](https://www.youtube.com/watch?v=Ax6P93r32KU)
    14.  [Monk_Object_Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo?fbclid=IwAR28SZ6iTsr4VnL1oXoylQJjt7Xls2D1lKN4FPNHNOiEGapiKT7vJtTuQig)
    15.  [Deep Learning-based Real-time Video Processing](https://www.kdnuggets.com/2021/02/deep-learning-based-real-time-video-processing.html?fbclid=IwAR0cTUjwu948i-1Djr-hyBiopQz4t-zn0tqUQrBi8ermBXC32n6qsnMrg0s)
+   16.  [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
    3.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
+   4.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
+
  
