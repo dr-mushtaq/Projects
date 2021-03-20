@@ -32,6 +32,8 @@
    16.  [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
    17.  [Rainfall Prediction with Machine Learning](https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/?fbclid=IwAR17nR_D7TVMMw1gCjAjcUOQfH-3eqVWM4vH9ISzjBrP3f2uqezsSu_uAoc)
    18.  [Face Recognition Attendance GUI PyQt - 1 Hour Course | 2021](https://www.youtube.com/watch?v=oP3MQyO-wwc)
+   19.  [Machine Learning Projects on Social Media Analysis](https://medium.com/coders-camp/5-machine-learning-projects-on-social-media-analysis-d70b90839ab9)
+
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
