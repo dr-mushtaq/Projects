@@ -33,6 +33,7 @@
    17.  [Rainfall Prediction with Machine Learning](https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/?fbclid=IwAR17nR_D7TVMMw1gCjAjcUOQfH-3eqVWM4vH9ISzjBrP3f2uqezsSu_uAoc)
    18.  [Face Recognition Attendance GUI PyQt - 1 Hour Course | 2021](https://www.youtube.com/watch?v=oP3MQyO-wwc)
    19.  [Machine Learning Projects on Social Media Analysis](https://medium.com/coders-camp/5-machine-learning-projects-on-social-media-analysis-d70b90839ab9)
+   20.  (https://morioh.com/p/40c5eee00312?f=5c21fb01c16e2556b555ab32&fbclid=IwAR2vnq_nL6fhb-Yk5_hc-MYTs3YpgveLgc0XlUomPod80eZ3XmCeVDx3W-4)
 
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
