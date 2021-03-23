@@ -55,13 +55,13 @@
    39.  [10 Machine Learning Projects on Time Series Forecasting](https://amankharwal.medium.com/10-machine-learning-projects-on-time-series-forecasting-ee0368420ccd)
    40.  [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR0VFY0oGMExA-zEvUxsFENK2F2sYbfn5NvPhKriB66lYd-fP4cN8lM-6rI)
    41.   [Real-Time Sentiment Analysis](https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/)
-
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
    3.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
    4.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
    5.   [projectsbasedlearning](https://projectsbasedlearning.com/)
+   6.   [laconicml](https://laconicml.com/category/computer-vision/)
 
 
  
