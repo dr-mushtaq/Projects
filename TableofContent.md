@@ -56,6 +56,7 @@
    40.  [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR0VFY0oGMExA-zEvUxsFENK2F2sYbfn5NvPhKriB66lYd-fP4cN8lM-6rI)
    41.   [Real-Time Sentiment Analysis](https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/)
    42.   [215+ Machine Learning Projects Solved and Explained](https://medium.com/coders-camp/215-machine-learning-projects-solved-and-explained-7bd6fd478897)
+   43.   [Part 1-EDA-Audio Classification Project Using Deep Learning](https://www.youtube.com/watch?v=mHPpCXqQd7Y)
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
