@@ -57,6 +57,7 @@
    41.   [Real-Time Sentiment Analysis](https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/)
    42.   [215+ Machine Learning Projects Solved and Explained](https://medium.com/coders-camp/215-machine-learning-projects-solved-and-explained-7bd6fd478897)
    43.   [Part 1-EDA-Audio Classification Project Using Deep Learning](https://www.youtube.com/watch?v=mHPpCXqQd7Y)
+   44.   [Build a Personal AI Trainer| OpenCV Python 2021 | Computer Vision](https://www.youtube.com/watch?v=5kaX3ta398w&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
