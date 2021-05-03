@@ -69,6 +69,7 @@
    4.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
    5.   [projectsbasedlearning](https://projectsbasedlearning.com/)
    6.   [laconicml](https://laconicml.com/category/computer-vision/)
+   7.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
 
 
  
