@@ -62,6 +62,7 @@
    46.   [Data Science Real-World Use Cases ](https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/learn/lecture/25430358#overview)
    47.   [Smart Attendance Management System Based On Face Recognition](https://www.youtube.com/watch?v=BECN0Cn7UAc&t=513s&ab_channel=PrabhatAle)
    48.   [Python Project Development](https://www.youtube.com/playlist?list=PLsT53VV2LIIFMeibhkk8C3YA9_EuuhF0R)
+   49.   [AI Virtual Mouse | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=8gPONnGIPgw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
    2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
