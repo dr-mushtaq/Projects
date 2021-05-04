@@ -64,6 +64,7 @@
    48.   [Python Project Development](https://www.youtube.com/playlist?list=PLsT53VV2LIIFMeibhkk8C3YA9_EuuhF0R)
    49.   [AI Virtual Mouse | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=8gPONnGIPgw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
    50.   [Face Recognition Authentication in Flutter using TensorFlow & Firebase ML](https://morioh.com/p/2e28055a9e86?f=5c224490c513a556c9042463&fbclid=IwAR216L51ZnQg4Q8BFOKzZDnhxO6tg_eQNbeI4BwIxnGfB5Yhy_EWChwSFdQ)
+   51.   [Fake News Detection using LSTM in Tensorflow and Python](https://www.youtube.com/watch?v=eLjs52-gsJQ&ab_channel=KGPTalkie)
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
