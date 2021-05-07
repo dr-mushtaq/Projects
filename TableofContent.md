@@ -66,7 +66,7 @@
    50.   [Face Recognition Authentication in Flutter using TensorFlow & Firebase ML](https://morioh.com/p/2e28055a9e86?f=5c224490c513a556c9042463&fbclid=IwAR216L51ZnQg4Q8BFOKzZDnhxO6tg_eQNbeI4BwIxnGfB5Yhy_EWChwSFdQ)
    51.   [Fake News Detection using LSTM in Tensorflow and Python](https://www.youtube.com/watch?v=eLjs52-gsJQ&ab_channel=KGPTalkie)
    52.   [Emotion Detection of Text Using Machine Learning and Python](https://www.youtube.com/watch?v=t1TkAcSDsI8&ab_channel=JCharisTech%26J-Secur1ty)
-   53.   [Face Recognition Authentication in Flutter using TensorFlow & Firebase ML (https://morioh.com/p/2e28055a9e86f=5c224490c513a556c9042463&fbclid=IwAR2Sm1LPck7MNCtlWEWroDkLgqeG2RV3IRLv3-1OgnNzvLsLgxrU8bUTVRU)
+   53.   [Face Recognition Authentication in Flutter using TensorFlow & Firebase ML](https://morioh.com/p/2e28055a9e86f=5c224490c513a556c9042463&fbclid=IwAR2Sm1LPck7MNCtlWEWroDkLgqeG2RV3IRLv3-1OgnNzvLsLgxrU8bUTVRU)
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
