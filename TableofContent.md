@@ -10,6 +10,7 @@
    3. [Predict_IPL_Winner_with_ML.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Predict_IPL_Winner_with_ML.ipynb)
    4. [Credit_Card_Fraud_Detection_DT_and_RF.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Credit_Card_Fraud_Detection_DT_and_RF.ipynb)
    5. [President_Heights_exploratory_data.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/President_Heights_exploratory_data.ipynb)
+   6. [Birth Rate Analysis](https://github.com/hussain0048/Projects-/blob/master/ML/Birth_Rate_Analysis.ipynb)
 5. [**Machine Learning End to End**](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    1. [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
 6. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
