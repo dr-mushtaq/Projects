@@ -71,6 +71,7 @@
    53.   [Emotion Detection of Text Using Machine Learning and Python](https://www.youtube.com/watch?v=t1TkAcSDsI8&ab_channel=JCharisTech%26J-Secur1ty)
    54.   [Face Recognition Authentication in Flutter using TensorFlow & Firebase ML](https://morioh.com/p/2e28055a9e86f=5c224490c513a556c9042463&fbclid=IwAR2Sm1LPck7MNCtlWEWroDkLgqeG2RV3IRLv3-1OgnNzvLsLgxrU8bUTVRU)
    55.   [Machine learning project| | Student exam mark prediction using python|](https://www.youtube.com/watch?v=lN8AsMRiKP4&ab_channel=AKPython)
+   56.   [Machine Learning Projects for Beginners|](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
