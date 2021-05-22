@@ -17,8 +17,6 @@
 6. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
 7. [**Preprocessing**](https://github.com/hussain0048/Projects-/tree/master/Preprocessing)
    1. [Create_new_Features_(Faker)_.ipynb](https://github.com/hussain0048/Projects-/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
-9. 
-10. **Project Need to Implement**
 11. **Project Need to Implement**
    1.  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    2.  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
