@@ -21,7 +21,7 @@
    1.  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    2.  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
    3.  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
-   4.  [Data Science Real-World Use Cases - Hands On PythonYour progress](https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/learn/lecture/25430358 components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon&couponCode=MAY_SALE#overview)
+   4.  [Data Science Real-World Use Cases - Hands On PythonYour progress](https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/learn/lecture/25430358components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon&couponCode=MAY_SALE#overview)
    5.  [How to Build Bioinformatics Tools](https://www.youtube.com/watch?v=LHM0Couv0w4&ab_channel=DataProfessor)
    6.  [TOP 10 OPENCV PROJECTS in 2020](https://www.murtazahassan.com/courselist/)
    7.  [Predict The Future Price of Etherium Using Python & Machine Learning](https://www.youtube.com/watch?v=vbDFJSdusAA&ab_channel=ComputerScience)
