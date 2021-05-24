@@ -80,6 +80,7 @@
    60.   [I tried building a Computer Vision Game in 12 Hours](https://www.youtube.com/watch?v=i_UiTIr4jTk&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
    61.   [predict a news headline|](https://github.com/lukefeilberg/onion/blob/master/Onion.ipynb)
    62.   [DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects)
+   63.   [Movies Review Sentiment Analysis in NLP](https://datascience2000.blogspot.com/2021/05/movies-review-sentiment-analysis-in-nlp.html?m=1&fbclid=IwAR1TOe-l8ZfkpyB791XZ2s_XABW1oLdo-vs1Iu8yEY5nuFWXE84PaGE13Qo)
   
   
 8. **Important Website For Projects**
