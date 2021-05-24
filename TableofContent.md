@@ -85,12 +85,13 @@
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
-   2.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
-   3.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
-   4.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
-   5.   [projectsbasedlearning](https://projectsbasedlearning.com/)
-   6.   [laconicml](https://laconicml.com/category/computer-vision/)
-   7.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
+   2.   [Data Science Tutorial](https://datascience2000.blogspot.com/)
+   3.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
+   4.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
+   5.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
+   6.   [projectsbasedlearning](https://projectsbasedlearning.com/)
+   7.   [laconicml](https://laconicml.com/category/computer-vision/)
+   8.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
 
 
  
