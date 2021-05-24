@@ -79,6 +79,8 @@
    59.   [Machine Learning Projects for Beginners|](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
    60.   [I tried building a Computer Vision Game in 12 Hours](https://www.youtube.com/watch?v=i_UiTIr4jTk&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
    61.   [predict a news headline|](https://github.com/lukefeilberg/onion/blob/master/Onion.ipynb)
+   62.   [DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects)
+  
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
