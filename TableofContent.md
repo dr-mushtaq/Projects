@@ -83,6 +83,7 @@
    63.   [predict a news headline|](https://github.com/lukefeilberg/onion/blob/master/Onion.ipynb)
    64.   [DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects)
    65.   [Movies Review Sentiment Analysis in NLP](https://datascience2000.blogspot.com/2021/05/movies-review-sentiment-analysis-in-nlp.html?m=1&fbclid=IwAR1TOe-l8ZfkpyB791XZ2s_XABW1oLdo-vs1Iu8yEY5nuFWXE84PaGE13Qo)
+   66.   [Machine Learning Tutorial with Turi Create and Python (Diabetes Risk Prediction)](https://www.youtube.com/watch?v=OSNvlK0HSdM&ab_channel=JCharisTech%26J-Secur1ty)
   
   
 8. **Important Website For Projects**
