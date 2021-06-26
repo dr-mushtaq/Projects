@@ -86,6 +86,7 @@
    66.   [Machine Learning Tutorial with Turi Create and Python (Diabetes Risk Prediction)](https://www.youtube.com/watch?v=OSNvlK0HSdM&ab_channel=JCharisTech%26J-Secur1ty)
    67.   [230+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
    68.   [Machine Learning Project : Weather prediction using Python ( Naïve Bayes )](https://www.youtube.com/watch?v=Gurfcd0i9jg)
+   69.   [End-to-End Machine Learning Projects with Source Code](https://medium.com/coders-camp/end-to-end-machine-learning-projects-with-source-code-c727119800de)
   
   
 8. **Important Website For Projects**
