@@ -2,8 +2,10 @@
 
 ## Tabl of Content
 1. [**Computer Vision**](https://github.com/hussain0048/Projects-/tree/master/Computer%20Vision)
-2. [**Deep Learning**](https://github.com/hussain0048/Projects-/tree/master/DL)
-3. [**Freelancer**](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
+   1. [Human_Activity_Recognition](https://github.com/hussain0048/Projects-/blob/master/Computer%20Vision/Human_Activity_Recognition.ipynb)
+   2. [Building_a_Real_Time_Emotion_Detection_with_Python](https://github.com/hussain0048/Projects-/blob/master/Computer%20Vision/Building_a_Real_Time_Emotion_Detection_with_Python.ipynb)
+3. [**Deep Learning**](https://github.com/hussain0048/Projects-/tree/master/DL)
+4. [**Freelancer**](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
    1. [AI_Assigment](https://github.com/hussain0048/Projects-/blob/master/Freelancer/AI_Assigment.ipynb)
 5. [**Machine Learning**](https://github.com/hussain0048/Projects-/tree/master/ML)
    1. [Stock_Price_Prediction_using_Linear_Regression.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Stock_Price_Prediction_using_Linear_Regression.ipynb)
