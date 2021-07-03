@@ -15,8 +15,11 @@
    8. [How to Save a Machine Learning Model?](https://github.com/hussain0048/Projects-/blob/master/ML/How_to_Save_a_Machine_Learning_Model.ipynb)
 5. [**Machine Learning End to End**](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    1. [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
-6. [Natural Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
+6. [**Natural Language Processing**](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
    1. [Spam Detection with Machine Learning](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Spam_Detection_with_Machine_Learning.ipynb)
+   2. [Next_Word_Prediction](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Next_Word_Prediction.ipynb)
+   3. [Summarize_Text_with_Machine_Learning](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Summarize_Text_with_Machine_Learning.ipynb)
+   4. [Text_Classification](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Text_Classification.ipynb)
 8. [**Preprocessing**](https://github.com/hussain0048/Projects-/tree/master/Preprocessing)
    1. [Create_new_Features_(Faker)_.ipynb](https://github.com/hussain0048/Projects-/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
 11. **Project Need to Implement**
