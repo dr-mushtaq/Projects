@@ -15,8 +15,9 @@
    8. [How to Save a Machine Learning Model?](https://github.com/hussain0048/Projects-/blob/master/ML/How_to_Save_a_Machine_Learning_Model.ipynb)
 5. [**Machine Learning End to End**](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    1. [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
-6. [National Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
-7. [**Preprocessing**](https://github.com/hussain0048/Projects-/tree/master/Preprocessing)
+6. [Natural Language processing](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
+   1. [Spam Detection with Machine Learning](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Spam_Detection_with_Machine_Learning.ipynb)
+8. [**Preprocessing**](https://github.com/hussain0048/Projects-/tree/master/Preprocessing)
    1. [Create_new_Features_(Faker)_.ipynb](https://github.com/hussain0048/Projects-/blob/master/Preprocessing/Create_new_Features_(Faker)_.ipynb)
 11. **Project Need to Implement**
    1.  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
