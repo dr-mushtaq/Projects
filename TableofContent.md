@@ -97,6 +97,7 @@
    69.   [End-to-End Machine Learning Projects with Source Code](https://medium.com/coders-camp/end-to-end-machine-learning-projects-with-source-code-c727119800de)
    70.   [Build a Grammar Correction Python App with Gramformer and Gradio](https://www.youtube.com/watch?v=4htP-hmIBvc&ab_channel=NicholasRenotte)
    71.   [240+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
+   72.   [AI Virtual Mouse | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=8gPONnGIPgw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
   
   
 8. **Important Website For Projects**
