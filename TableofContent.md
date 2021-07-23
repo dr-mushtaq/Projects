@@ -100,6 +100,7 @@
    72.   [AI Virtual Mouse | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=8gPONnGIPgw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
    73.   [Computer Vision Notebooks:](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)
    74.   [Predicting Football Results With the Poisson Distribution](http://www.pena.lt/y/2021/06/18/predicting-football-results-using-the-poisson-distribution/)
+   75.   [End-to-End Machine Learning Projects](https://medium.com/coders-camp/end-to-end-machine-learning-projects-with-source-code-c727119800de)
   
   
 8. **Important Website For Projects**
