@@ -28,6 +28,7 @@
 8. [**Recommender System**](https://github.com/hussain0048/Projects-/tree/master/Recommender%20System)
    1. [Amazon_Recommendation_System_using_Python)_.ipynb](https://github.com/hussain0048/Projects-/blob/master/Recommender%20System/Amazon_Recommendation_System_using_Python.ipynb)
    2. [Movie_Recommender_9_26_2020](https://github.com/hussain0048/Projects-/blob/master/Recommender%20System/Movie_Recommender_9_26_2020.ipynb)
+   3. [Content_Based_Filtering_in_Machine_Learning.ipynb](https://github.com/hussain0048/Projects-/blob/master/Recommender%20System/Content_Based_Filtering_in_Machine_Learning.ipynb)
 11. **Project Need to Implement**
    1.  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
    2.  [Face Recognition Based Attendance System| Python| OpenCV](https://www.youtube.com/watch?v=y1o33D44AtI&ab_channel=ArtificialIntelligenceHub)
