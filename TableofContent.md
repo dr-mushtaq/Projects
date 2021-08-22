@@ -115,14 +115,15 @@
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
-   2.   [Data Science Tutorial](https://www.datascience2000.in/)
-   3.   [Data Science Tutorial](https://datascience2000.blogspot.com/)
-   4.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
-   5.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
-   6.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
-   7.   [projectsbasedlearning](https://projectsbasedlearning.com/)
-   8.   [laconicml](https://laconicml.com/category/computer-vision/)
-   9.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
+   2.   [ai-techsystems](https://medium.com/ai-techsystems/whale-detection-using-aerial-images-b535ea3cc932)
+   3.   [Data Science Tutorial](https://www.datascience2000.in/)
+   4.   [Data Science Tutorial](https://datascience2000.blogspot.com/)
+   5.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
+   6.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
+   7.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
+   8.   [projectsbasedlearning](https://projectsbasedlearning.com/)
+   9.   [laconicml](https://laconicml.com/category/computer-vision/)
+   10.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
 
 
 
