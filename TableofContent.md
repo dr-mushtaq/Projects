@@ -126,6 +126,7 @@
    8.   [projectsbasedlearning](https://projectsbasedlearning.com/)
    9.   [laconicml](https://laconicml.com/category/computer-vision/)
    10.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
+   11.   [Mathematics behind Data Science](https://www.youtube.com/watch?v=iq1pqWaXgOw&list=PLKR38d5oOkckjyQFQLjYumMJSgRCEpKeK)
 
 
 
