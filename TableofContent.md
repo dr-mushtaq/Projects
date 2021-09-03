@@ -113,6 +113,7 @@
    79.   [250+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
    80.   [End-to-End Machine Learning Projects with Source Code](https://medium.com/coders-camp/end-to-end-machine-learning-projects-with-source-code-c727119800de?fbclid=IwAR3mlQYGQnz3IgsFtn_u3_dWCh0NoNmxKoSFqNJMnlb2soGCQyO8LflrB7k)
    81.   [7 BEST ARTIFICIAL INTELLIGENCE PROJECT IDEAS FOR BEGINNERS](https://www.analyticsinsight.net/7-best-artificial-intelligence-project-ideas-for-beginners/)
+   82.   [255+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
   
   
 8. **Important Website For Projects**
