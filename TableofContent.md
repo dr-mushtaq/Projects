@@ -19,6 +19,7 @@
    9. [Hate Speech Detection with Machine Learning](https://github.com/hussain0048/Projects-/blob/master/ML/Hate_Speech_Detection_with_Machine_Learning(_Decsion_Tree)%20(1).ipynb)
 6. [**Machine Learning End to End**](https://github.com/hussain0048/Projects-/tree/master/Machine%20Learning%20End%20to%20End)
    1. [Build_and_Deploy_Data_Science_Products](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/Build_and_Deploy_Data_Science_Products_.ipynb)
+   2. [End-to-End Machine Learning Model](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/End_to_End_Machine_Learning_Model.ipynb)
 7. [**Natural Language Processing**](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
    1. [Spam Detection with Machine Learning](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Spam_Detection_with_Machine_Learning.ipynb)
    2. [Next_Word_Prediction](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Next_Word_Prediction.ipynb)
