@@ -119,6 +119,7 @@
    82.   [255+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
    83.   [8 Deep Learning Project Ideas for Beginners](https://www.kdnuggets.com/2021/09/8-deep-learning-project-ideas-beginners.html?fbclid=IwAR1WN-9tnaogLDrxtKy6FkSwo_R5gOB8Akomoqb1GbDZuPD-JATUu5wAQx4)
    84.   [Skin Cancer Detection Using CNN](https://medium.com/ai-techsystems/skin-cancer-detection-using-cnn-7ba3ca8d3dc3)
+   85.   [Create Music Recommendation System Using Python](https://towardsdatascience.com/create-music-recommendation-system-using-python-ce5401317159)
   
   
 8. **Important Website For Projects**
