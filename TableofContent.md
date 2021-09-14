@@ -120,6 +120,7 @@
    83.   [8 Deep Learning Project Ideas for Beginners](https://www.kdnuggets.com/2021/09/8-deep-learning-project-ideas-beginners.html?fbclid=IwAR1WN-9tnaogLDrxtKy6FkSwo_R5gOB8Akomoqb1GbDZuPD-JATUu5wAQx4)
    84.   [Skin Cancer Detection Using CNN](https://medium.com/ai-techsystems/skin-cancer-detection-using-cnn-7ba3ca8d3dc3)
    85.   [Create Music Recommendation System Using Python](https://towardsdatascience.com/create-music-recommendation-system-using-python-ce5401317159)
+   86.   [Credit Card Fraud Detection With Machine Learning in Python](https://medium.com/codex/credit-card-fraud-detection-with-machine-learning-in-python-ac7281991d87)
   
   
 8. **Important Website For Projects**
