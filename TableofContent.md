@@ -122,6 +122,7 @@
    85.   [Create Music Recommendation System Using Python](https://towardsdatascience.com/create-music-recommendation-system-using-python-ce5401317159)
    86.   [Credit Card Fraud Detection With Machine Learning in Python](https://medium.com/codex/credit-card-fraud-detection-with-machine-learning-in-python-ac7281991d87)
    87.   [Credit Card Fraud Detection With Machine Learning in Python](https://medium.com/codex/credit-card-fraud-detection-with-machine-learning-in-python-ac7281991d87)
+   88.   [Fake News Classifier using Bidirectional LSTM](https://medium.com/ai-techsystems/fake-news-classifier-using-bidirectional-lstm-cebef77b0adc)
   
   
 8. **Important Website For Projects**
