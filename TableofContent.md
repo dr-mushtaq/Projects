@@ -28,6 +28,7 @@
    4. [Chatbot_using_Python.ipynb](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Chatbot_using_Python.ipynb)
    5. [Text_Classification](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Text_Classification.ipynb)
    6. [End-to-End Spam Detection with Python](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/End_to_End_Spam_Detection_with_Python.ipynb)
+   7. [Fake_News_Classifier_using_Bidirectional_LSTM.ipynb](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Fake_News_Classifier_using_Bidirectional_LSTM.ipynb)
 8. [**Recommender System**](https://github.com/hussain0048/Projects-/tree/master/Recommender%20System)
    1. [Amazon_Recommendation_System_using_Python)_.ipynb](https://github.com/hussain0048/Projects-/blob/master/Recommender%20System/Amazon_Recommendation_System_using_Python.ipynb)
    2. [Movie_Recommender_9_26_2020](https://github.com/hussain0048/Projects-/blob/master/Recommender%20System/Movie_Recommender_9_26_2020.ipynb)
