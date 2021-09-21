@@ -124,10 +124,12 @@
    86.   [Credit Card Fraud Detection With Machine Learning in Python](https://medium.com/codex/credit-card-fraud-detection-with-machine-learning-in-python-ac7281991d87)
    87.   [Credit Card Fraud Detection With Machine Learning in Python](https://medium.com/codex/credit-card-fraud-detection-with-machine-learning-in-python-ac7281991d87)
    88.   [Fake News Classifier using Bidirectional LSTM](https://medium.com/ai-techsystems/fake-news-classifier-using-bidirectional-lstm-cebef77b0adc)
+   89.   [YouTube Recommendation System – Machine Learning Project with Source Code](https://data-flair.training/blogs/youtube-video-recommendation-system-ml/?fbclid=IwAR212Q8yIGnPPRUwLzbVfdB1nYBuarjwua5ijv_WqS0h91Zm0M1YxEdRxYo)
   
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
+   2.   [data-flair.training](https://data-flair.training/blogs/youtube-video-recommendation-system-ml/?fbclid=IwAR212Q8yIGnPPRUwLzbVfdB1nYBuarjwua5ijv_WqS0h91Zm0M1YxEdRxYo)
    3.   [ai-techsystems](https://medium.com/ai-techsystems/whale-detection-using-aerial-images-b535ea3cc932)
    4.   [Data Science Tutorial](https://www.datascience2000.in/)
    5.   [Data Science Tutorial](https://datascience2000.blogspot.com/)
