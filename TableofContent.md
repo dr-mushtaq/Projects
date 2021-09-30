@@ -38,9 +38,10 @@
    2. [Time_Series_with_LSTM_in_Machine_Learning.ipynb](https://github.com/hussain0048/Projects-/blob/master/Time%20Series%20Forecasting/Time_Series_with_LSTM_in_Machine_Learning.ipynb) 
 11. **Project Need to Implement**
    1.  [How to Detect Passive and Active Voice in Your Writing Using an LSTM](https://www.bobbywlindsey.com/2021/01/09/how-to-detect-passive-and-active-voice-in-your-writing-using-an-lstm/)
-   2.  [Face Recognition Based Attendance System| Python| OpenCV](https://www.youtube.com/watch?v=y1o33D44AtI&ab_channel=ArtificialIntelligenceHub)
-   3.  [UBER RIDES PREDICTION USING MACHINE LEARNING | Complete Project](https://www.youtube.com/watch?v=qoI_PwI6mBs&ab_channel=ArtificialIntelligenceHub)
-   4.  [Predict Ads Click – Practice Data Analysis and Logistic Regression Prediction](https://projectsbasedlearning.com/apache-spark-machine-learning/predict-ads-click-practice-data-analysis-and-logistic-regression-prediction/?fbclid=IwAR3zhEqrzxRg5TP0lzd2MuZ_9XIrr5dXGU-h26_MWEV6wcuB7T2k15HzxsM)
+   2.  [How to Create a Chrome Plugin using Python](https://morioh.com/p/0e3b33fe9851?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0598Gqq6NVxJD14TBFSAftpi9dj-lGuovz8v4_JwERcHuJWiTqcJW9_78)
+   3.  [Face Recognition Based Attendance System| Python| OpenCV](https://www.youtube.com/watch?v=y1o33D44AtI&ab_channel=ArtificialIntelligenceHub)
+   4.  [UBER RIDES PREDICTION USING MACHINE LEARNING | Complete Project](https://www.youtube.com/watch?v=qoI_PwI6mBs&ab_channel=ArtificialIntelligenceHub)
+   5.  [Predict Ads Click – Practice Data Analysis and Logistic Regression Prediction](https://projectsbasedlearning.com/apache-spark-machine-learning/predict-ads-click-practice-data-analysis-and-logistic-regression-prediction/?fbclid=IwAR3zhEqrzxRg5TP0lzd2MuZ_9XIrr5dXGU-h26_MWEV6wcuB7T2k15HzxsM)
    6.  [Beginner Machine Learning Projects with data:](https://www.reddit.com/r/learnmachinelearning/comments/l9ssx6/beginner_machine_learning_projects_with_data/)
    7.  [ai-powered storytelling convert text into video stories](https://partners.nius.tv/?ref=producthunt)
    8.  [Learn to create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/learn/lecture/21404920#overview)
