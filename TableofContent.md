@@ -143,6 +143,7 @@
    11.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
    12.   [techprofree](http://www.techprofree.com/category/projects/?fbclid=IwAR1OqTkkmEr26r-aiXqVc4m30WWiHBx2Uilxia5NII3nxu_S1ScDUCPZkro)
    13.   [Mathematics behind Data Science](https://www.youtube.com/watch?v=iq1pqWaXgOw&list=PLKR38d5oOkckjyQFQLjYumMJSgRCEpKeK)
+   14.   [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects)
 
 
 
