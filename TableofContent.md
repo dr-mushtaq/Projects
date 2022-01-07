@@ -127,6 +127,7 @@
    88.   [Fake News Classifier using Bidirectional LSTM](https://medium.com/ai-techsystems/fake-news-classifier-using-bidirectional-lstm-cebef77b0adc)
    89.   [YouTube Recommendation System – Machine Learning Project with Source Code](https://data-flair.training/blogs/youtube-video-recommendation-system-ml/?fbclid=IwAR212Q8yIGnPPRUwLzbVfdB1nYBuarjwua5ijv_WqS0h91Zm0M1YxEdRxYo)
    90.   [15 Amazing Deep Learning Project Ideas to Boost Your Resume](https://medium.com/projectpro/15-amazing-deep-learning-project-ideas-to-boost-your-resume-28782ed1d62f)
+   91.   [Automate WhatsApp Messages with Python Instantly!](https://levelup.gitconnected.com/automate-whatsapp-messages-with-python-instantly-3e08d6600612)
   
   
 8. **Important Website For Projects**
