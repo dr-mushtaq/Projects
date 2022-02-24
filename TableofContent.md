@@ -135,19 +135,20 @@
   
 8. **Important Website For Projects**
    1.   [dataspoof](https://www.dataspoof.info/)
-   2.   [data-flair.training](https://data-flair.training/blogs/youtube-video-recommendation-system-ml/?fbclid=IwAR212Q8yIGnPPRUwLzbVfdB1nYBuarjwua5ijv_WqS0h91Zm0M1YxEdRxYo)
-   3.   [ai-techsystems](https://medium.com/ai-techsystems/whale-detection-using-aerial-images-b535ea3cc932)
-   4.   [Data Science Tutorial](https://www.datascience2000.in/)
-   5.   [Data Science Tutorial](https://datascience2000.blogspot.com/)
-   6.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
-   7.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
-   8.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
-   9.   [projectsbasedlearning](https://projectsbasedlearning.com/)
-   10.   [laconicml](https://laconicml.com/category/computer-vision/)
-   11.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
-   12.   [techprofree](http://www.techprofree.com/category/projects/?fbclid=IwAR1OqTkkmEr26r-aiXqVc4m30WWiHBx2Uilxia5NII3nxu_S1ScDUCPZkro)
-   13.   [Mathematics behind Data Science](https://www.youtube.com/watch?v=iq1pqWaXgOw&list=PLKR38d5oOkckjyQFQLjYumMJSgRCEpKeK)
-   14.   [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects)
+   2.   [blobcity](https://cloud.blobcity.com/code/explore#/ps/explore)
+   3.   [data-flair.training](https://data-flair.training/blogs/youtube-video-recommendation-system-ml/?fbclid=IwAR212Q8yIGnPPRUwLzbVfdB1nYBuarjwua5ijv_WqS0h91Zm0M1YxEdRxYo)
+   4.   [ai-techsystems](https://medium.com/ai-techsystems/whale-detection-using-aerial-images-b535ea3cc932)
+   5.   [Data Science Tutorial](https://www.datascience2000.in/)
+   6.   [Data Science Tutorial](https://datascience2000.blogspot.com/)
+   7.   [Top 10 most promising AI ](https://www.immuniweb.com/blog/top-AI-research-projects-2021.html?fbclid=IwAR1B9oXnqVLlZLtUc8323REWkHotLLtMRr18z50odhLqOealtY3Awr1TJXU)
+   8.   [Graph Algorithms](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Graph%20Algorithms)
+   9.   [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
+   10.   [projectsbasedlearning](https://projectsbasedlearning.com/)
+   11.   [laconicml](https://laconicml.com/category/computer-vision/)
+   12.   [Machine Learning Hub](https://www.youtube.com/c/MachineLearningHub)
+   13.   [techprofree](http://www.techprofree.com/category/projects/?fbclid=IwAR1OqTkkmEr26r-aiXqVc4m30WWiHBx2Uilxia5NII3nxu_S1ScDUCPZkro)
+   14.   [Mathematics behind Data Science](https://www.youtube.com/watch?v=iq1pqWaXgOw&list=PLKR38d5oOkckjyQFQLjYumMJSgRCEpKeK)
+   15.   [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects)
 
 
 
