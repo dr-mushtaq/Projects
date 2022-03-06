@@ -130,7 +130,8 @@
    91.   [15 Amazing Deep Learning Project Ideas to Boost Your Resume](https://medium.com/projectpro/15-amazing-deep-learning-project-ideas-to-boost-your-resume-28782ed1d62f)
    92.   [Automate WhatsApp Messages with Python Instantly!](https://levelup.gitconnected.com/automate-whatsapp-messages-with-python-instantly-3e08d6600612)
    93.   [10 Best Machine Learning Projects with datasets](https://medium.com/@letthedataconfess/10-best-machine-learning-projects-with-datasets-6184839c9100)
-   94.   [10 Time Series Projects with datasets]](https://www.letthedataconfess.com/blog/2021/10/09/10-best-time-series-projects-to-practice-along-with-datasets/)
+   94.   [10 Time Series Projects with datasets](https://www.letthedataconfess.com/blog/2021/10/09/10-best-time-series-projects-to-practice-along-with-datasets/)
+   95.   [ml_stress_detection](https://github.com/janprince/ml_stress_detection)
   
   
 8. **Important Website For Projects**
