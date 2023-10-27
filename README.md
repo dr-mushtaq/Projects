@@ -1,6 +1,7 @@
 **About**
 
-This repository is related to all about Machine Learning, Deep Learning, Computer Vision, NLP, and Research Projects - an A-Z guide to the world of Data Science. 
+This repository is related to all about Machine Learning, Deep Learning, Computer Vision, NLP, and Research Projects 
+
 Contribution: We would love your help in making this repository even better! If you know of an amazing AI Project that isn't listed here, or if you have any suggestions for improvement in any repository content, feel free to open an issue or submit a repository contribution request.
 
 Together, let's make this the best AI learning hub repository! 🚀
