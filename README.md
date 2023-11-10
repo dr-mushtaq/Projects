@@ -43,7 +43,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 ### **📚 Researchs Rrojects**
 | Project Title | Datasets | Code |
 |---|---|---|
-| [**1-Building education chatbot for decreasing instructor workload in e-learning system**](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | Content 2 | Content 3 |
+| [**1-Building education chatbot for decreasing instructor workload in e-learning system**](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | Content 2 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO_combined.ipynb) |
 
 
  
