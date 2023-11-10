@@ -1,0 +1,545 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": ["Hello! How can I help you?", "Hi there! How can I assist you today?"]
+    },
+    {
+      "tag": "help",
+      "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+      "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you?"]
+    },
+    {
+    "tag": "Introduction C Programming",
+      "patterns": ["Which one is highly recommended? C or C++??","which programming language is best C,C++"],
+      "responses": ["It ives ry difficult to conclude or to give final estimate that which language is ideal for programming since all the programming language have its pros and cons and are used in different domains. Some languages are best for Mobile Application Development, some are best for Web Development, some are good for Desktop-based applications, while some are good at game development etc. You may visit the following links to get information about: https://online.maryville.edu/blog/programming-languages-for-software-developers/ https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn https://www.bestcolleges.com/bootcamps/guides/best-programming-languages-software-development/#:~:text=Python%20and%20C%2B%2B%20are%20two,learning%2C%20web%2C%20and%20development.?"]
+    },
+    {
+      "tag": "OOP",
+      "patterns": ["please  explain OOP's"," What is mean by OOP","What does OOP stand for?"],
+      "responses": ["There are two types of programming 1) Procedural programming 2)object-oriented programming In procedural programming we write function or procedural that perform operation on data but in OOP , We create objects that contain data and function"]
+    },
+    {
+      "tag": "Result",
+      "patterns": ["How can I apply for paper recheching?","how can i contact with exam department"],
+      "responses": ["You are advised to contact concerned authorities. For any queries related to the results, students may generate a support ticket by visiting VU Website or VULMS: Generate Ticket: Contact Us--->Support System--->Examinations--->Result--->Result Related Queries."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thank you", "Thanks for your help", "Appreciate your assistance"],
+      "responses": ["You're welcome! Feel free to ask me any other questions you may have."]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?", "What are you?", "Who you are?" ],
+     "responses": ["I.m VU Bot, your bot assistant", "I'm VU Bot and I am here to Help you, An Artificial Intelligent Bot"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me VU Bot.", "I'm Bot and I am here to help you with your questions!", "Just call me as VU Bot"]
+    },
+    {"tag": "create account",
+    "patterns": ["I need to create a new account", "how to open a new account", "I want to create an account", "can you create an account for me", "how to open a new account"],
+    "responses": ["You can just easily create a new account from our web site", "Just go to our web site and follow the guidelines to create a new account"]
+    },
+    {
+      "tag": "Introduction to  C/C+ Programming",
+      "patterns": ["In this course we don't really study c++ in depth but we study about program development to know how to develop a program"],
+      "responses": ["cs201 course is designed for new computer science students and is offered during the first semester. It's a beginner-level class, so it will give you a solid foundation in programming."]
+    },
+    {"tag": "institution",
+    "patterns": ["virtual university is private or government", " Is the Virtual University a private or Government institution?", "VU is private or Government?"],
+    "responses": ["Virtual University of Pakistan (VU) is the Pakistan's first University based completely on modern Information and Communication Technologies (ICTs) working under the Federal Ministry of Information Technology & Telecom (MoITT),Government of Pakistan to provide extremely affordable world class education to aspiring students all over the country as well as overseas."]
+    },
+     {
+        "tag": "admission",
+        "patterns": ["What is the admission system at VU?", "How can I apply for admission at VU?", "How to get admission in vu?"],
+        "responses": ["The admission system at VU is conducted online. You can apply for admission by visiting the VU website and following the instructions for online admission. The website provides all the necessary information regarding admission requirements, dates, and procedures."]
+      },
+      {"tag":"contactadmissiondepartment",
+        "patterns":["contact vu admissions department","how can i contact with admissions department","how to contact with admission department"],
+        "responses":["All candidates, regardless of their location may contact the officials of the University via \"Contact Us\" page available at (https://www.vu.edu.pk/Contact.aspx). Likewise, VU has developed a Support System to facilitate its students. You may enquire through VU Support System through the link at (https://www.vu.edu.pk/SupportSystem). You may also contact the admissions department via email (admissions@vu.edu.pk)."]
+     },
+     {"tag":"standardsofeducation",
+     "patterns":["Does the University have different standards of education","standards of education for various provinces?","standard of education  in vu"],
+     "responses":["Absolutely not. The Virtual University provides uniform education to all its students regardless of their geographical locations. All Virtual University students, regardless of whether they live in large cities or small towns or even remote areas are taught by the same Professors and receive the same study materials. Even examinations are identical throughout the country."]
+      },
+      {"tag":"uniformeducation",
+        "patterns":["How is uniform education possible all over the country?","uniform education"],
+        "responses":["The Virtual University uses free-to-air television for broadcasting its lectures and interaction between students and teachers happens over the Internet. Lectures are also available on YouTube and DVDs at a very nominal cost. Examinations are conducted in a formal proctored environment at campuses\/centres allocated for the purpose by the University. The Virtual University operates its own four television channels (VTV1, VTV2, VTV3 & VTV4). Students listen to the lectures in classroom environment at virtual campuses/study centers spread all over the country. The students are provided free Internet facility at these campuses to interact with the teachers."]
+    },
+    {"tag":"professors",
+        "patterns":["Who are the Professors at Virtual University of Pakistan?","professors of vu"],
+        "responses":["The Virtual University utilizes the services of the very best Professors that the country has to offer. They belong to the best universities and other institutions of the country and are acknowledged masters of their subjects. Most of the Professors hold PhD degrees and even several Vice-Chancellors of major national universities have taught courses at the Virtual University of Pakistan."]
+    },
+    {"tag":"expensiveeducation",
+        "patterns":["VU education must be very expensive!","is  vu education is expensive?"],
+        "responses":["You will be surprised at the affordability of Virtual University programs. Despite the provision of world-class facilities and education, the cost of a BS program is only Rs. 750\/- per credit hour. The fee for the Diploma program, Masters programs isonly Rs. 1150\/- per credit hour. The fee for the MS program in different disciplines is Rs. 2,100\/- per credit hour."]
+    },
+    {"tag":"wheretostudy",
+        "patterns":["where do i study?","where to study?"],
+        "responses":["If you are a full-time student then you should preferably join any one of the more than 210 campuses of the Virtual University. These are located in over 100 cities of the country and the list is available on the VU web-site (http://www.vu.edu.pk/PVCs/Default.aspx). By studying at any of these campuses you will be able to interact with your class-fellows and also avail free computer and Internet facilities which are required for student-teacher interaction. However, if you are a working professional or it is difficult for you to attend classes at a campus, then you can study from home. In this case you will need a cable television and/or a computer/laptop or at least an Android phone with Internet connectivity."]
+    },
+    {"tag":"howtostudy",
+        "patterns":["how do i study?","how to study?"],
+        "responses":["You attend lectures as per the declared timetable through Virtual University's television network which operates four channels VTV1, VTV2, VTV3 and VTV4. The lecture schedule is always available on the VU web-site. In case you miss any lecture, all Virtual University courses are also available on YouTube and DVDs at a very nominal cost. In addition to the prescribed text books, extensive reading material is made available over the Internet through the University's Learning Management System (LMS)."]
+    },
+    {"tag":"askquestionfromteacher",
+        "patterns":["What if I need to ask a question from my teachers?","how to ask questions from teachers?"],
+        "responses":["You can ask questions at any time over the Internet using the Virtual University's comprehensive Learning Management System (http://vulms.vu.edu.pk). No other University of the country offers such a facility."]
+    },
+    {"tag":"appearforexam",
+        "patterns":["how do i appear for my exam?","how to give exams?"],
+        "responses":["The Virtual University establishes examination centres throughout the country. Examinations are conducted under the supervision of examiners who ensure the sanctity of the process."]
+    },
+    {"tag":"recognizeddegree",
+        "patterns":["Is vu degree recognized?"],
+        "responses":["The Virtual University has been established by the Government of Pakistan. As such, its degrees are recognized by the Higher Education Commission, Islamabad. Please visit the HEC web-site (https://www.hec.gov.pk/english/universities/pages/recognised.aspx)"]
+    },
+    {"tag":"lecturehandoutsanddvd",
+        "patterns":["From where can I obtain the lecture handouts and DVDs?","lecture handouts","lectuer handouts and DVD's?"],
+        "responses":["Lecture Handouts and DVDs are easily available through the Virtual University's online bookshop (http://bookshop.vu.edu.pk). Availability of handouts and DVDs is not limited to VU students only; students and faculty from other Universities as well as the public at large can benefit from these courses and associated material."]
+    },
+    {"tag":"operatecomputer",
+        "patterns":["Can Virtual University help me learn how to operate a computer?","how to operate a computer?"],
+        "responses":["Definitely. You do not need to go to any computer centre\/Campus\/study centre to learn the basics of computers. The Virtual University has developed a very exciting and comprehensive set of interactive DVDs that will lead anybody through the basic IT learning process. No teacher is necessary and all instructions on these DVDs are delivered in Urdu, thereby making them extremely easy to understand and follow for all age groups."]
+    },
+    {"tag":"comparablecourses",
+        "patterns":["Are the courses offered by VU comparable to international standards?","standard of VU courses"],
+        "responses":["Yes. Virtual University programs are based on curricula developed by the Higher Education Commission (HEC). The course outlines used in these curricula are based on international demands and standards."]
+    },
+    {"tag":"continueeducationaftercompletingdefree",
+        "patterns":["Will I be able to continue my education in any other University after obtaining a degree from VU?","can i continue my education after completing degree from VU?"],
+        "responses":["Definitely. In fact, VU graduates are already pursuing their MS and higher studies at top Universities both within Pakistan as well as abroad"]
+    },
+    {"tag":"concerncertificate",
+        "patterns":["How can I get a \"To whom it may Concern\" certificate?","how to  get concern certificate"],
+        "responses":["The office of the Registrar facilitates its students to get a certificate which shows their current status of study at VU, upon payment of prescribed fee."]
+    },
+    {"tag":"migrationcertificate",
+    "patterns":["How can I get Migration Certificate/No Objection Certificate?","how do i get NOC?","how to get migration certificate"],
+    "responses":["The students of Virtual University can get Migration certificate\/NOC within a short time upon payment of the prescribed fee."]
+    },
+    {"tag":"coursesyllabus",
+        "patterns":["How can I get Course Contents\/Syllabus of a Study/Degree program","how to get course content","how to get course syllabus"],
+        "responses":["You can get the signed hard copy of Course Contents\/Syllabus of your study program from office of the Registrar upon payment of prescribed fee within a short time. Further you can get the soft copies of the Course Contents\/Syllabus at VU website (http://www.vu.edu.pk/AcademicPrograms/CoursesCatalogue.aspx)"]
+    },
+    {"tag":"studentstatusupdation",
+        "patterns":["How can I get my student status changed(Overseas to Pakistan)?","How can I get my student status changed","student status","overseas to pakistan","pakistan to overseas"],
+        "responses":["You may get your status changed by emailing at (overseas@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag":"campuschange",
+        "patterns":["How can I get my Campus changed?","how to change campus"],
+        "responses":["You can get your campus changed by emailing at (campuschange@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag":"addordropcourses",
+        "patterns":["How can I do my Course Selection/to Add or Drop course(s)?","how to do course selection?","add or drop courses"],
+        "responses":["You may select your courses by following the steps as mentioned in https://handbook.vu.edu.pk> Course selection or emailing at (course_selection@vu.edu.pk) to add or drop course (s)."]
+    },
+    {"tag":"freezeaccount",
+        "patterns":["How can I Freeze\/Unfreeze my Semester?","freeze account","unfreeze account"],
+        "responses":["You can freeze\/unfreeze your semester by following the steps as mentioned in https://handbook.vu.edu.pk>Registrar office > Semester Freeze or https://handbook.vu.edu.pk> Registrar office > Semester UnFreeze or emailing at (semesterfreeze@vu.edu.pk or semesterunfreeze@vu.edu.pk) to get your semester Freeze or Unfreeze."]
+    },
+    {"tag":"duplicateid",
+        "patterns":["How can I get a Duplicate ID card?","duplicate id card"],
+        "responses":["You can get a duplicate ID card by emailing at (idcard@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag": "complaint",
+    "patterns": ["have a complaint", "I want to raise a complaint", "there is a complaint about a service"],
+    "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvenience caused"]
+    },
+    {"tag": "Dev C++",
+    "patterns": ["Sir dev c++ ki latest version window 10 k liye keise download karien?", "Dev c++", "Dev C++ ki guidlines dy"],
+    "responses": ["Dear Student Please download Dev-C++ version 5.11Setup file from the download section of the course website, through VULMS. RUN setup file on your system and then follow the given instructions for the successful installation of Dev-C++."]
+    },
+    {"tag": "Credit",
+    "patterns": ["What is credit?", "Credit hours", "Credit hours means", "Credit"],
+    "responses": ["In academic contexts, credit refers to a unit of measurement that reflects the amount of work required to complete a course or program of study. It is typically based on the number of class hours, laboratory hours, and independent study hours required. Students must meet certain requirements to earn academic credit, and the number of credits earned can impact their progress towards completing a degree."]
+    },
+    {"tag": "Campus changed",
+    "patterns": ["How can i get campus changed?", "Campus change", "I want Campus change", "Campus change procedure"],
+    "responses": ["Ans. You can get your campus changed by emailing at (campuschange@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag": "student status Overseas to Pakistan and Vice Versa",
+    "patterns": ["How can i change my status from overseas to pakistani?", "I want to be overseas student", "I want to be a pakistani student","can I change my status to overseas student or pakistani student please?"],
+    "responses": [" You may get your status changed by emailing at (overseas@vu.edu.pk) or using the VU Support System."]
+    },
+    {"tag": "course selection",
+    "patterns": ["How can I select courses?", "Course selection procedure", "How to do course select?"],
+    "responses": ["You may select your courses by following the steps as mentioned in https://handbook.vu.edu.pk> Course selection or emailing at (course_selection@vu.edu.pk) to add or drop course (s)."]
+    },
+    {"tag": "functon declaration",
+    "patterns": ["What is Function Declaration?", "Function Decleration", "How to declare Function"],
+    "responses": ["A function declaration provides the compiler with information about a function, like its name, what it returns, and the parameters it takes in."]
+    },
+    {"tag": "functions",
+    "patterns": ["What is Function?", "Function in C language", "Function in C Programming", "Function are very important"],
+    "responses": ["Functions are used to perform certain actions, and they are important for reusing code Functions are handy for carrying out certain actions, and they're great for using the same code over and over again."]
+    },
+    {"tag": "functions type",
+    "patterns": ["What are Function types?", "Function types in C language", "types of function in coding", "functions types in computer languages"],
+    "responses": ["There are two types of functions: 1. Standard library functions 2. User-defined functions"]
+    },
+    {"tag": "physical session",
+    "patterns": ["What about physical class?", "Physical Session", "Physical Session attending"],
+    "responses": ["Dear student: It is not mandatory to join the Physicals session since it is not graded but we do recommend the student to join physical session and ask their queries if any to the course instructor"]
+    },
+  {
+        "tag": "admission_criteria",
+        "patterns": ["What are the admission criteria at VU?", "What are the requirements for admission at VU?"],
+        "responses": ["The admission criteria at VU vary depending on the degree program. Generally, applicants must have a minimum of 45% marks in their intermediate or equivalent degree. There are also different requirements for different degree programs. You can find detailed information on the VU website regarding the admission criteria for each program."]
+  
+      },
+      {
+        "tag": "admission_types",
+        "patterns": ["What are the types of admission at VU?", "How many types of admission does VU offer?"],
+        "responses": ["VU offers three types of admission: Regular, Late and Deficient. Regular admission is offered at the start of the semester. Late admission is offered to students who missed the regular admission deadline. Deficient admission is offered to students who have failed to clear the required course(s) in a previous semester."]
+  
+      },
+      {
+        "tag": "benefits",
+        "patterns": ["What are the benefits of taking admission in VU?", "Why should I choose VU for my education?"],
+        "responses": ["There are several benefits to taking admission at Virtual University of Pakistan, including: \n1) Flexible learning: you can study from anywhere at any time. \n2) Affordable education: VU offers quality education at an affordable cost. \n3) Comprehensive curriculum: VU offers a wide range of programs and courses in various fields. \n4) Experienced faculty: VU has a team of experienced and qualified professors who are experts in their fields. \n5) Advanced technology: VU uses the latest technology to deliver its courses and provide a seamless learning experience. \n6) Professional development: VU offers various opportunities for professional development, including internships and career counseling, to help students prepare for their future careers."]
+      },
+      {
+        "tag": "admission_process",
+        "patterns": ["How can I apply for admission at VU?", "What is the admission process at VU?"],
+        "responses": ["To apply for admission at Virtual University of Pakistan, you need to visit the VU website and create an account. Once you have created an account, you can fill out the online admission form and submit it along with the required documents. The admission process usually consists of an entrance test and an interview. Once you have been accepted, you will receive an admission letter and can proceed to register for your courses."]
+      },
+      {
+        "tag": "financial_aid",
+        "patterns": ["Does VU offer financial aid?", "How can I get financial assistance to study at VU?"],
+        "responses": ["Yes, VU offers financial aid to eligible students in the form of scholarships, loans, and grants. You can apply for financial aid through the VU Financial Assistance Office and must meet the eligibility requirements to receive assistance."]
+      },
+      {
+        "tag": "online_learning",
+        "patterns": ["Is online learning at VU as effective as traditional learning?", "Can I get a quality education through online learning at VU?"],
+        "responses": ["Yes, online learning at Virtual University of Pakistan is just as effective as traditional learning, if not more so. VU uses a comprehensive online learning platform and a team of experienced professors to deliver quality education to its students. Online learning allows for greater flexibility and convenience and can be especially helpful for students who have other commitments or cannot attend traditional classes."]
+      },
+      {
+        "tag": "fee_structure",
+        "patterns": ["What is the fee structure at VU?", "How much do I have to pay to study at VU?"],
+        "responses": ["The fee structure at VU varies depending on the degree program and the number of credit hours per course. The fee for each course is listed on the VU website, along with the total fee for the degree program. The fee can be paid online or at designated banks. Students can also pay the fee in installments."]
+  
+      },
+      {
+        "tag": "vu_cost",
+        "patterns": ["Is Virtual University of Pakistan expensive?", "What is the cost of studying at VU?"],
+        "responses": ["The cost of studying at Virtual University of Pakistan varies depending on the program and the number of courses you take. However, VU is generally considered to be an affordable option compared to traditional universities. You can find detailed information about the tuition fees on the VU website, or by contacting the VU student support team."]
+      },
+      {
+        "tag": "payment_options",
+        "patterns": ["What payment options are available for VU tuition?", "How can I pay for my VU tuition?"],
+        "responses": ["Virtual University of Pakistan offers several payment options for tuition, including online banking, credit card payments, and bank drafts. You can find more information about the payment options on the VU website, or by contacting the VU student support team."]
+      },
+      {
+        "tag": "fee_installments",
+        "patterns": ["Can I pay my fees in installments?", "What are the options for paying the fee at VU?"],
+        "responses": ["Yes, VU offers the option of paying the fee in installments. The fee can be paid in two or three installments, depending on the program. Students can find the exact details on the VU website."]
+  
+      },
+      {
+        "tag": "fee_deadline",
+        "patterns": ["What is the deadline for paying the fee at VU?", "When do I need to pay my fees by?"],
+        "responses": ["The deadline for paying the fee at VU is typically mentioned on the VU website and is also communicated to students through email and notifications. Students are required to pay the fee within the given deadline to avoid any late fees or penalties."]
+  
+      },
+    {
+      "tag": "exam_type",
+      "patterns": ["What types of exams are held at VU?", "How are exams conducted at VU?"],
+      "responses": ["Virtual University of Pakistan conducts two types of exams: Midterm and Final term exams."]
+    },
+    {
+      "tag": "exam_system",
+      "patterns": ["How is the exam system at VU?", "What is the process of taking exams at VU?"],
+      "responses": ["VU has an online examination system in which students take exams through their own Learning Management System (LMS). The exams are invigilated by VU's own proctors and are conducted in a secure environment."]
+
+    },
+    {
+      "tag": "midterm",
+      "patterns": ["What is a midterm exam?", "How is the midterm exam conducted at VU?"],
+      "responses": ["The Midterm exam is held in the middle of the semester and covers half of the course material. It is an online exam conducted through VU's LMS and is usually held for a duration of 2 hours."]
+
+    },
+    {
+      "tag": "finalterm",
+      "patterns": ["What is a final term exam?", "How is the final term exam conducted at VU?"],
+      "responses": ["The Final term exam is held at the end of the semester and covers the entire course material. It is an online exam conducted through VU's LMS and is usually held for a duration of 3 hours."]
+
+    },
+    {
+      "tag": "term",
+      "patterns": ["How many terms are there in a year at VU?", "What is the duration of a term at VU?"],
+      "responses": ["There are two terms in a year at VU: Spring and Fall. Each term is of 18 weeks duration."]
+
+    },
+    {
+        "tag": "plagiarism",
+        "patterns": ["What is the plagiarism policy at VU?", "How does VU deal with plagiarism?"],
+        "responses": ["VU has a strict policy against plagiarism. Students are expected to submit original work, and any form of plagiarism, including copying from online sources or other students' work, is considered a serious academic offence. VU uses various tools and technologies to detect plagiarism, and if a student is found to have committed plagiarism, they may face a range of penalties, including failing the assignment or the course, or even expulsion from the university."]
+  
+      },
+      {
+        "tag": "avoid_plagiarism",
+        "patterns": ["How can I avoid plagiarism at VU?", "What are some tips for avoiding plagiarism at VU?"],
+        "responses": ["To avoid plagiarism at VU, students should always properly cite their sources, whether it's a direct quote or a paraphrase. They should also avoid copying and pasting from online sources, and instead use the sources to inform their own work. Students can also use plagiarism-checking tools to ensure that their work is original and properly cited."]
+  
+      },
+      {
+        "tag": "plagiarism_consequences",
+        "patterns": ["What are the consequences of plagiarism at VU?", "What happens if I am caught plagiarizing at VU?"],
+        "responses": ["The consequences of plagiarism at VU can be serious. Depending on the severity of the offence, a student may fail the assignment, the course, or even be expelled from the university. Additionally, the offence will be recorded in the student's academic record, which can have long-term consequences for their academic and professional career."]
+  
+      },
+    {
+        "tag": "grading_scheme",
+        "patterns": ["What is the grading scheme at VU?", "How are grades calculated at VU?"],
+        "responses": ["The grading scheme at VU is based on the percentage of marks obtained by the students in a course. The letter grades and their corresponding percentage ranges are as follows:\n\nA+ (90-100%)\nA (80-89%)\nB (70-79%)\nC (60-69%)\nD (50-59%)\nF (Below 50%)"]
+      },
+      {
+        "tag": "gpa",
+        "patterns": ["How is GPA calculated at VU?", "What is the GPA system at VU?"],
+        "responses": ["The GPA (Grade Point Average) at VU is calculated by multiplying the grade points obtained in a course with the credit hours assigned to that course, and then dividing the total grade points earned by the total credit hours attempted. The GPA scale ranges from 0.00 to 4.00."]
+  
+      },
+      {
+        "tag": "cgpa",
+        "patterns": ["What is CGPA?", "How is CGPA calculated at VU?"],
+        "responses": ["CGPA (Cumulative Grade Point Average) is the overall GPA calculated by taking into account all the courses attempted by a student. The CGPA is calculated by multiplying the grade points earned in each course with the credit hours assigned to that course, adding up the total grade points earned and dividing the sum by the total credit hours attempted. The CGPA scale ranges from 0.00 to 4.00."]
+  
+      },
+      {
+        "tag": "passing_criteria",
+        "patterns": ["What is the passing criteria at VU?", "What is the minimum passing marks at VU?"],
+        "responses": ["The passing criteria at VU is to obtain at least 50% marks in a course. Any student who fails to obtain 50% marks is considered to have failed that course."]
+  
+      },
+      {
+        "tag": "quizzes",
+        "patterns": ["How are quizzes conducted at VU?", "What is the weightage of quizzes at VU?"],
+        "responses": ["Quizzes are a regular part of the learning process at VU. They are conducted online and their weightage varies from course to course. The weightage of quizzes is mentioned in the course overview and is also mentioned in the course syllabus."]
+  
+      },
+      {
+        "tag": "assignments",
+        "patterns": ["What is the assignment submission process at VU?", "How many assignments are there in a course at VU?"],
+        "responses": ["Assignments are an important part of the learning process at VU. They are submitted online on the VU Learning Management System (LMS) within the given deadline. The number of assignments in a course varies from course to course and is mentioned in the course overview and also in the course syllabus."]
+  
+      },
+      {
+        "tag": "gdb",
+        "patterns": ["What is GDB at VU?", "How is GDB conducted at VU?"],
+        "responses": ["GDB (Graded Discussion Board) is a type of assessment at VU where students are required to participate in an online discussion on a given topic. The GDB is graded and its weightage is mentioned in the course overview and the course syllabus. The GDB is conducted online and students are required to participate within the given deadline."]
+  
+      },
+      {
+        "tag": "vu_professors",
+        "patterns": ["What can you tell me about VU professors?", "How are the professors at VU?"],
+        "responses": ["The professors at VU are highly qualified and experienced in their respective fields. They are experts in their subject matter and are committed to providing a quality education to their students. They are also available to provide support and guidance to students throughout the course. You can contact your professors through email or the VU Learning Management System (LMS) to ask questions or discuss course material."]
+      },
+      {
+        "tag": "contact_professor",
+        "patterns": ["How can I contact my professor?", "What is the best way to reach out to my professor?"],
+        "responses": ["You can contact your professor through email or the VU Learning Management System (LMS). Your professor's email address can be found on the course syllabus, and you can also access the LMS to send a message or post a question on the course forum. If you need additional help, you can also attend office hours or schedule a meeting with your professor."]
+      },
+      {
+        "tag": "professor_feedback",
+        "patterns": ["Can I give feedback on my professor?", "How can I provide feedback on my professor?"],
+        "responses": ["Yes, you can provide feedback on your professor through the VU Course Evaluation system. At the end of the course, you will receive a link to the course evaluation form, where you can provide feedback on your professor and the course. Your feedback is valuable and helps VU to continually improve the quality of education."]
+      },
+      {
+        "tag": "how_to_study",
+        "patterns": ["How can I study effectively at VU?", "What are some tips for studying in VU?"],
+        "responses": ["To study effectively at VU, it is important to have a clear understanding of the course material. You should attend all lectures and take detailed notes. You can also watch recorded lectures and access course material on the VU Learning Management System (LMS) at any time. Additionally, you can form study groups with other students to discuss course material and exchange ideas. It's also important to manage your time well and allocate sufficient time for studying."]
+  
+      },
+      {
+        "tag": "study_tips",
+        "patterns": ["What are some tips for studying at VU?", "How can I improve my performance at VU?"],
+        "responses": ["Here are some study tips that may help you perform better at VU: 1) Make a study schedule and stick to it, 2) Take regular breaks to avoid burnout, 3) Use the VU Learning Management System (LMS) to access course materials and communicate with your professors, 4) Participate in online discussions and forums to engage with your classmates, 5) Attend virtual live sessions and review recordings of missed lectures, 6) Use past papers and quizzes to practice for exams, and 7) Get help from your professors or teaching assistants if you are struggling with course material."]
+  
+      },
+      {
+        "tag": "time_management",
+        "patterns": ["How can I manage my time better at VU?", "What are some time management tips for VU students?"],
+        "responses": ["Here are some time management tips that may help you: 1) Prioritize your tasks and deadlines, 2) Use a planner or calendar to schedule your study time, 3) Minimize distractions by studying in a quiet place and turning off your phone or notifications, 4) Break down large assignments into smaller, manageable tasks, 5) Set goals and rewards for yourself to stay motivated, and 6) Avoid procrastination by starting your work early and staying on track."]
+  
+      },
+      {
+        "tag": "support_services",
+        "patterns": ["What support services are available to VU students?", "How can I get help if I'm struggling at VU?"],
+        "responses": ["VU offers a variety of support services to help students succeed. You can access resources like the Virtual Writing Center for help with writing assignments, the Virtual Math Lab for help with math problems, and the Virtual Reference Desk for research assistance. Additionally, you can get support from your professors, teaching assistants, and classmates through the VU Learning Management System (LMS). If you need further assistance, you can also reach out to the VU Student Services department for help with academic, financial, or personal issues."]
+  
+      },
+      {
+        "tag": "academic_support",
+        "patterns": ["What academic support services does VU offer?"],
+        "responses": ["VU offers a range of academic support services, including access to course instructors and teaching assistants, as well as tutoring services for specific courses. You can also attend review sessions and academic workshops to enhance your learning. Additionally, VU provides an online library with a range of resources and materials to support your studies."]
+  
+      },
+      {
+        "tag": "support_system",
+        "patterns": ["How can I get help at VU?", "What support services are available at VU?"],
+        "responses": ["Virtual University of Pakistan offers various support services to its students, including: 1) Faculty support: you can contact your course instructors through email, discussion forums, or online chat, 2) Student support: VU has a dedicated student support team that can assist you with any questions or issues you may have, 3) Technical support: VU provides technical support to students who are experiencing issues with the online learning platform or other technical difficulties, and 4) Career services: VU offers career counseling, job placement assistance, and internship opportunities to help you prepare for your future career."]
+      },
+      {
+        "tag": "faculty_contact",
+        "patterns": ["How can I contact my course instructor at VU?", "Is there a way to get in touch with the faculty at VU?"],
+        "responses": ["You can contact your course instructor at Virtual University of Pakistan through email, online chat, or discussion forums. The contact information for your instructor can be found on the VU website or in the course syllabus."]
+      },
+      {
+        "tag": "student_support",
+        "patterns": ["What kind of support is available for VU students?", "Where can I go for help as a VU student?"],
+        "responses": ["VU has a dedicated student support team that can assist you with any questions or issues you may have. You can contact the student support team through the VU website or by phone. They can assist you with technical issues, academic concerns, or any other issues you may have."]
+      },
+      {
+        "tag": "technical_support",
+        "patterns": ["How can I get technical support at VU?", "What do I do if I have technical issues with the online learning platform at VU?"],
+        "responses": ["If you are experiencing technical issues with the online learning platform at Virtual University of Pakistan, you can contact the technical support team. The contact information for the technical support team can be found on the VU website or in the online learning platform itself. They can assist you with any technical difficulties you may be having."]
+      },
+      {
+        "tag": "career_services",
+        "patterns": ["Does VU offer career services?", "How can I get help with my career goals as a VU student?"],
+        "responses": ["Yes, Virtual University of Pakistan offers career counseling, job placement assistance, and internship opportunities to help you prepare for your future career. You can access these services through the VU website or by contacting the career services team directly."]
+      },
+      {
+        "tag": "vu_campuses",
+        "patterns": ["Where are Virtual University of Pakistan's campuses located?", "Are there any physical campuses of VU?"],
+        "responses": ["Virtual University of Pakistan has campuses in several cities across the country, including Lahore, Islamabad, Karachi, Faisalabad, Peshawar, and Rawalpindi. However, VU is primarily an online university, and most of the courses are conducted through an online platform. If you need to visit a physical campus for any reason, you can find the address and contact details of the nearest campus on the VU website."]
+      },
+      {
+        "tag": "virtual_campus",
+        "patterns": ["What is the virtual campus of VU?", "How does the virtual campus work?"],
+        "responses": ["The virtual campus of Virtual University of Pakistan is a web-based platform that provides students with access to course materials, lectures, discussion forums, and other resources. It allows students to participate in online classes, communicate with faculty and peers, submit assignments, and take exams. The virtual campus is available 24/7 and can be accessed from anywhere with an internet connection."]
+      },
+      {
+        "tag": "physical_campus",
+        "patterns": ["Can I visit a physical campus of VU?", "What facilities are available at the VU physical campuses?"],
+        "responses": ["Yes, you can visit a physical campus of Virtual University of Pakistan if you need to. The campuses have a range of facilities for students, including libraries, computer labs, lecture halls, and study areas. The campuses also have a student support center where you can get help with academic and administrative issues."]
+      },
+      
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+      },
+      {
+        "tag": "fallback",
+        "patterns": [],
+        "responses": ["I'm sorry, I didn't understand what you were asking. Can you please rephrase your question?"]
+      },
+      {
+        "tag": "gdIDE",
+          "patterns": ["Which IDE is good for programming", "Which software is good for programming", "Which IDE is better for programming", "Which IDE is preferable for programming"],
+          "responses": ["For practice purposes almost all IDEs are best and you can use any one of them. However, for assignment development we will recommend you to use DevC++ IDE."]
+      }, 
+      {
+        "tag": "writeprogram",
+        "patterns": ["What are basic activities for writing program?", "What is basic recipie for writing program?", "What is basic idea of writing program?", "What is basic technique for writing program?", "What are basic things for writing program?"],
+        "responses": ["Basic activities are: 1). Analyze the problem statement. 2). Express its core concept theoretically with examples. 3). Formulate the statements and comments in precise language 4). Evaluate and revise activities. 5) Paying attention to details. All these activities are already thoroughly explained in the video lectures you are required to watch the lecture to get a better understanding."]
+      },
+      {
+      "tag": "LecCS201CS201P",
+        "patterns": ["Is lectures of both courses are same?","Do I have to attend lectures of both courses CS201 and CS201P?"],
+        "responses": ["Contents of both the courses (CS201 and CS201P) are same.  CS201 is a course based on three credit hours (means students will watch three lectures of this course per week) whereas, CS201P is a one credit hour course (means student will attend one lab of the course per week). Three lectures of CS201 course will be equal to one Lab of CS201P course. Practically, CS201 gets you familiar with the basic programming construct whereas CS201P is a practical-based course dealing with the practical implementation of CS201 course. Students will watch the video lectures of CS201 and practically implement its concept in this course. You do not need to take lectures twice. "]
+      },
+      {
+        "tag": "Practical",
+        "patterns": ["Is it necessary to go to campus for practical","For practical will I have to go to university"],
+        "responses": ["It is not mandatory you can give the practical from your home or you can go to the university and give it from there. Furthermore, details regarding practical’s will be shared with the students on LMS."]
+      },
+      {
+        "tag": "historyprogramlanguage",
+        "patterns": ["What is history of programming language","Who is the inventer or discoverer of programming language" ,"When first programming language was developed", "Who developed first programming language", "When and who develop first algorithm","What is the name of first algorithm and who develop it?"],
+        "responses": ["The first programming language was created in 1883, when a women named Ada Lovelace worked with Charles Babbage on his very early mechanical computer, the Analytical engine. Ada saw that the numbers the computer worked with could represent something other than just amounts of things. She wrote an algorithm for the Analytical Engine that was the first of its kind. Because of her contribution, Lovelace is credited with creating the first programming language."]
+      },
+      {
+        "tag": "bestprogramlanguage",
+        "patterns": ["Which language is best for programming", "What is best programming language","Is C a best programming language","What is an ideal programming language"],
+        "responses": ["It is very difficult to conclude or to give final estimate that which language is ideal for programming since all the programming language have its pros and cons and are used in different domains. Some languages are best for Mobile Application Development, some are best for Web Development, some are good for Desktop-based applications, while some are good at game development etc. You may visit the following links to get information about: https://online.maryville.edu/blog/programming-languages-for-software-developers/ https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn https://www.bestcolleges.com/bootcamps/guides/best-programming-languages-software-development/#:~:text=Python%20and%20C%2B%2B%20are%20two,learning%2C%20web%2C%20and%20development  You're welcome! Feel free to ask me any other questions you may have."]
+      },
+      {"tag": "language",
+       "patterns": ["Which language we will study in CS201?", "Which language will be taught in CS201?" ],
+       "responses": ["Only C++ language will be taught in this course."]
+      },
+      {"tag": "fragmentation",
+       "patterns": ["What is fragmentation?", "Define fragmentation?" ],
+       "responses": ["Fragmentation is a problem usually occurs in Operating System (OS) that breaks the file into pieces because there is not enough space on the storage device where the file is originally saved. This problem makes your hard disk do extra work that can slow down your system removable storage devices such as USB Flash drive can also be fragmented."]
+      },
+      {"tag": "defragmentation",
+       "patterns": ["What is defragmentation?", "Define defragmentation?" ],
+       "responses": ["Defragmentation is the process of scanning the file system and rejoining the split files back into consecutive pieces. Disk defragmented in OS rearranges the fragmented data so that your disks and drives can work more efficiently."]
+      },
+      {"tag": "logicop",
+       "patterns": ["What is logical operator?", "Define logical operator?" ],
+       "responses": ["Logical operator is a symbol that performs logical operation by combining the two or more expressions and check whether the compound expression is True or False. After using Logical operators on the variables, the result returned is a Boolean value i.e., Either a True of False value. Common logical operators usually include AND, OR and Not. For more information visit the following link:  https://www.programiz.com/c-programming/c-operators  https://www.tutorialspoint.com/cprogramming/c_logical_operators.htm"]
+      },
+      {"tag": "lecwat",
+       "patterns": ["Whay lecture is unplayable?", "Why lecture is not playable?","How many lectures are required to watch daily","How many lecture should watch daily" ],
+       "responses": ["Normally, there is no limit set from the University that how many lectures a student can watch. Normally, total of three lectures are opened on weekly basis. Therefore, a student can watch the lectures at their own feasible time which he/she feel is suitable for him/her. "]
+      },
+      {"tag": "improvecod",
+       "patterns": ["How can I learn coding better?", "How to improve my coding skill?" ],
+       "responses": ["You need to watch the video lectures of the course and read handouts to get an understanding and familiar with the basics constructs of programming. Once your basics concepts are clear, try practicing them by writing programs in Dev-C++ IDE. To improve your coding the main thing is to do practice. The more practice you do the better you will become at it."]
+      },
+      {"tag": "IDE",
+       "patterns": ["List IDEs?", "What are different IDEs for programming?","Which software is to use for programming?" ],
+       "responses": ["In computer domain, there are a lot of Modern Software (IDE’s) available for programming. I am listing only few of the most commonly used IDE’s: 1. Visual Studio.  2. Visual Studio Code.  3. Android Studio.  4. PyCharm. 5. Sublime text. There are a lot of other Software (IDE’s) available too which you can search it over the internet"]
+      },
+      {"tag": "C++",
+       "patterns": ["What is C++?", "Define C++?","What is C plus plus","Define C plus plus" ],
+       "responses": ["C++ is a general purposed high level programming language evolved from C language and is exactly a super of C language i.e., Nearly all the features of C language are used in it with the exception of Object-Oriented Programming. C++ is used in developing browsers, operating systems, 2D and 3D game etc."]
+      },
+      {"tag": "CandC++",
+       "patterns": ["What is difference between C and C++?", "Differentiate between C and C++?", "What is difference between C & C++?", "Differentiate between C & C++?" ],
+       "responses": ["There is a major difference between C and C++. The C language is a procedural one that provides no support for objects and classes. On the other hand, the C++ language is a combination of object-oriented and procedural programming languages."]
+      },
+      {"tag": "importanceprogram",
+       "patterns": ["What is importance of program or programming?", "What is importance of program or programming in daily life?", "What is significance of program or programming?", "What is the significance of program or programming in our daily life?" ],
+       "responses": ["Programming in general is the process to create a set of instructions or steps that instructs human to solve a problem. Similarly, in programming it tells the computer how a particular problem gets solved. So, programming in general is important as it develops analytical and problem-solving abilities. It is a creative activity and provides us a means to express abstract ideas."]
+      },
+      {"tag": "social",
+       "patterns": ["Can I create whatsapp group for study purpose?", "Can we contact other students?", "Can we contact other students for study purpose?" ],
+       "responses": ["It is against the university policy to officially create WhatsApp groups or any other social media platforms to engage students with each other for study purpose. However, students can communicate with each other unofficially via social media or through any other legal means. Furthermore, students can communicate with the university officials using email, support system or through MDB platform."]
+      },
+      {"tag": "programmingtough",
+       "patterns": ["Is programming tough?", "Programming looks tough to me?" ],
+       "responses": ["Learning programming is mostly all about how much time you give to it. To become good at it you first need to build your foundation that is to understand its basic construct, concepts etc. After your concepts gets clear you try implementing those concepts by solving programming exercises. To do all of this you are required to watch the video lectures, read handouts consult reference book etc. Try to do practice by writing programs, the more practice you do the better you will become at it."]
+      },
+      {"tag": "library",
+       "patterns": ["What is library?", "Define library?","What is code library?", "Define code library?" ],
+       "responses": ["Code library are the built-in library (header) files which are provided by the language itself to be used in c++ programs."]
+      },
+      {"tag": "downloaddev",
+       "patterns": ["From where to dowload dev cpp?", "Link to download dev cpp?","Which version of dev cpp should be used for the cs201 course" ],
+       "responses": ["It is highly recommended that students should download the latest version of devC++ for this course. You can download it by visiting the following link: https://sourceforge.net/projects/orwelldevcpp/ "]
+      },
+      {"tag": "datasavedisk",
+       "patterns": ["How data is saved on disk?", "How different types of data is stored on disk?" ],
+       "responses": ["Data is saved in binary form of 1’s and 0’s on hard disk. Typically, the part of hard disk that stores the data is called a platter. The platter is a circular disk made of non-magnetic material called aluminum alloy, glass or ceramic and are coated with a thin layer (10-20 nm) of a magnetic material. Platters are further divided into tracks and sectors. For more information about how data gets saved in hard disk visit the following: https://www.tech-faq.com/how-data-is-stored-in-your-hard-disk.html"]
+      },
+      {"tag": "VSIDE",
+       "patterns": ["Can we used VS CODE IDE for assignment?", "Can VS Code Editor used for C++ programming?", "Can VS Code Editor used for C++ programming assignment?" ],
+       "responses": ["You can use any latest code editor for writing C/C++ programs. However, for assignment development you are required to use devC++ IDE."]
+      },
+      {"tag": "BCPLstand",
+       "patterns": ["What is BCPL?", "BCPL stands for?","Who developed BCPL?", "When BCPL was developed?","Where BCPL was developed?" ],
+       "responses": ["Basic Combined Programming Language (BCPL) is a computer language created by the Martin Richards at the university of Cambridge in 1966."]
+      },
+      {"tag": "twaindrivers",
+       "patterns": ["What is TWAIN?", "Define TWAIN?","What is TWAIN drivers?", "Define TWAIN drivers?","What is TWAIN protocol?", "Define TWAIN protocol?", "What is Technologo without and interesting name protocol?"],
+       "responses": ["TWAIN is protocol that allows an imaging device to acquire an image initially for scanners. The protocol saves that image directly into a “TWAIN” complaint imaging software application. There’s quite a bit more about TWAIN technology, which you can search over the internet."]
+      },
+      {"tag": "historycinfluencelanguage",
+       "patterns": ["How C language influence other programming language?", "Does C language influence development of other programming language?","Is C language still used?","Does C language still used?","Pros of C Languages","Advantages of C Languages","Benefits of C Languages" ],
+       "responses": ["Code written in C language is simple and execution efficient. As a result, the development of various languages has been influenced by C language. These languages are C++ (also known as C with classes), C#, Python, Java, JavaScript, Perl, PHP, Verilog, D, Limbo and C shell of Unix etc. C language is a high-level general-purpose programming language. It provides a straightforward, consistent powerful interface for programming systems. C language is used for developing system software, embedded systems etc. C++ language on the other hand which is evolved from C language is considered as mother of all languages and is mostly used in 2D, 3D game development now a days."]
+      },
+      {"tag": "mistakeexpression",
+       "patterns": ["What are some common mistakes when working with expressions?", "What are some common pitfalls when working with expressions?","Mistakes when working with expressions" ],
+       "responses": ["Mostly mistakes that beginners or even midlevel programmers make when working the operators is that they do not follow the operator’s precedency i.e., which operator in complex expression will be evaluated first."]
+      }
+      
+      
+      
+  ]
+}
