@@ -52,19 +52,25 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 </details>
    
-### **📚 Deep Learning Projects**
-| Tutorial | Video | Code |
+<details> 
+<summary> <h2>Projects 01 - ⚙️Deep Learning </h2> </summary>
+ 
+| Project Title | Description | Code |
 |---|---|---|
-| [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
-|[**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
-|[**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
+|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+-|
+</details>
+</details>
 
-### **📚 Computer Vision Rrojects**
-| Tutorial | Video | Code |
+<details> 
+<summary> <h2>Projects 03 - ⚙️Computer Vision </h2> </summary>
+ 
+| Project Title | Description | Code |
 |---|---|---|
-| [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
-|[**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
-|[**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
+|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+-|
+</details>
+</details>
 
 ### **📚 Natural language processing Rrojects**
 | Tutorial | Video | Code |
