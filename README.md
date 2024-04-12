@@ -46,9 +46,9 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
  
-| Project Title | Description | Code |
-|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+| Project Title/blog | Description | Notebook |Category|
+|---|---|---|---|
+|[**🌐1- Stock Price Prediction using linear regression**](https://medium.com/@Coursesteach/stock-price-prediction-using-linear-regression-4839bc1240f0) |Acc=.99, Model=Linear Regression, Techniquest: sklearn, Label enconding, chained equations (MICE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Stock_Price_Prediction.ipynb)|Regression|
 -|
 </details>
 </details>
@@ -120,7 +120,6 @@ Together, let's make this the best AI learning hub repository! 🚀
 4. [**Freelancer**](https://github.com/hussain0048/Projects-/tree/master/Freelancer)
    1. [AI_Assigment](https://github.com/hussain0048/Projects-/blob/master/Freelancer/AI_Assigment.ipynb)
 5. [**Machine Learning**](https://github.com/hussain0048/Projects-/tree/master/ML)
-   1. [Stock_Price_Prediction_using_Linear_Regression.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Stock_Price_Prediction_using_Linear_Regression.ipynb)
    2. [Movie_Recommender_9_26_2020.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Movie_Recommender_9_26_2020.ipynb)
    3. [Predict_IPL_Winner_with_ML.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Predict_IPL_Winner_with_ML.ipynb)
    4. [Credit_Card_Fraud_Detection_DT_and_RF.ipynb](https://github.com/hussain0048/Projects-/blob/master/ML/Credit_Card_Fraud_Detection_DT_and_RF.ipynb)
