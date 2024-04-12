@@ -67,7 +67,7 @@ Together, let's make this the best AI learning hub repository! 🚀
  
 | Project Title | Description | Code |
 |---|---|---|
-|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) |This is a very simple fashion classifier.It uses a data set called "fashion mnist" | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb)) |
+|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |This is a very simple fashion classifier.It uses a data set called "fashion mnist" | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb)) |
 -|
 </details>
 </details>
