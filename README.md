@@ -53,7 +53,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
    
 <details> 
-<summary> <h2>Projects 01 - ⚙️Deep Learning </h2> </summary>
+<summary> <h2>Projects 02 - ⚙️Deep Learning </h2> </summary>
  
 | Project Title | Description | Code |
 |---|---|---|
@@ -67,7 +67,7 @@ Together, let's make this the best AI learning hub repository! 🚀
  
 | Project Title | Description | Code |
 |---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) |This is a very simple fashion classifier.It uses a data set called "fashion mnist" | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb)) |
 -|
 </details>
 </details>
