@@ -68,7 +68,7 @@ Together, let's make this the best AI learning hub repository! 🚀
  
 | Project Title | Description | Code |Category|
 |---|---|---|---|
-|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |Accuracy 13-80%,Model=ANN | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) |Classification|
+|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |Accuracy 13-80%,Model=multilayer perceptron, Keras, | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) |Classification|
 -|
 </details>
 </details>
