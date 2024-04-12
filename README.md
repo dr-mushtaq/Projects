@@ -41,13 +41,11 @@ Together, let's make this the best AI learning hub repository! 🚀
                           https://coursesteach.com/
 
 
-##  **📚🧑‍🎓📺📝Development Projects **
+##  **📚🧑‍🎓📺📝Development Projects**
 <details> 
-<summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
-
-## 📚Chapter: 1  - **Introduction**
+<summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
  
-| Topic Name/Tutorial  | Video | Video |
+| Project Title | Description | Code |
 |---|---|---|
 |[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 -|
