@@ -74,7 +74,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Projects 04 - 📚 Natural language processing </h2> </summary>
+<summary> <h2>Projects 04 - ⚙️ Natural language processing </h2> </summary>
  
 | Project Title | Description | Code |
 |---|---|---|
@@ -84,7 +84,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Projects 04 - 📚 Research </h2> </summary>
+<summary> <h2>Projects 04 - ⚙️ Research </h2> </summary>
  
 | Project Title | Datasets | Code |
 |---|---|---|
