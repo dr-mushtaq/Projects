@@ -38,14 +38,11 @@ Explore the repository's contents, delve into projects and resources aligned wit
 
 **Contributing**
 
-Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
+Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please contact me on my skype ID:themushtaq48 for contribution.
 
 Together, let's make this the best AI learning hub repository! 🚀
 
                           https://coursesteach.com/
-
-
-##  **📚🧑‍🎓📺📝Development Projects**
 <details> 
 <summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
  
@@ -76,19 +73,29 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 </details>
 
-### **📚 Natural language processing Rrojects**
-| Tutorial | Video | Code |
+<details> 
+<summary> <h2>Projects 04 - 📚 Natural language processing </h2> </summary>
+ 
+| Project Title | Description | Code |
 |---|---|---|
-| [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
-|[**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
-|[**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
+|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+-|
+</details>
+</details>
+   
 
 ### **📚 Researchs Rrojects**
+
+<details> 
+<summary> <h2>Projects 04 - 📚 Research </h2> </summary>
+ 
 | Project Title | Datasets | Code |
 |---|---|---|
 | [**1-Building education chatbot for decreasing instructor workload in e-learning system**](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |
-
-
+-|
+</details>
+</details>
+   
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
