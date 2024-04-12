@@ -82,9 +82,6 @@ Together, let's make this the best AI learning hub repository! 🚀
 -|
 </details>
 </details>
-   
-
-### **📚 Researchs Rrojects**
 
 <details> 
 <summary> <h2>Projects 04 - 📚 Research </h2> </summary>
