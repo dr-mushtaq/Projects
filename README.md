@@ -42,14 +42,17 @@ Together, let's make this the best AI learning hub repository! 🚀
 
 
 ##  **📚🧑‍🎓📺📝Development Projects **
-### **📚 Machine Learning Projects**
-| Tutorial  | Video | Code|
+<details> 
+<summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
+
+## 📚Chapter: 1  - **Introduction**
+ 
+| Topic Name/Tutorial  | Video | Video |
 |---|---|---|
-| [**1-Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | Content 2 | Content 3 |
-| [**2-Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) | Content 5 | Content 6 |
-|[**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|---|---|
-|[**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|---|---|
-|[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
+|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+-|
+</details>
+</details>
    
 ### **📚 Deep Learning Projects**
 | Tutorial | Video | Code |
