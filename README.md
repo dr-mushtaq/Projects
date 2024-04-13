@@ -91,6 +91,17 @@ Together, let's make this the best AI learning hub repository! 🚀
 | [**1-Building education chatbot for decreasing instructor workload in e-learning system**](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |
 -|
 </details>
+
+<details> 
+<summary> <h2>Projects 02 - ⚙️Resources </h2> </summary>
+ 
+| Project Title | Description | Code |
+|---|---|---|
+|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+-|
+</details>
+</details>
+
 </details>
    
  
