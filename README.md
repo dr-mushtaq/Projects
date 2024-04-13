@@ -133,7 +133,6 @@ Together, let's make this the best AI learning hub repository! 🚀
    2. [End-to-End Machine Learning Model](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/End_to_End_Machine_Learning_Model.ipynb)
    3. [End-to-End Fake News Detection with Python](https://github.com/hussain0048/Projects-/blob/master/Machine%20Learning%20End%20to%20End/End_to_End_Fake_News_Detection_with_Python_(Naybaies_Streamlite).ipynb)
 7. [**Natural Language Processing**](https://github.com/hussain0048/Projects-/tree/master/National%20Language%20processing)
-   1. [Spam Detection with Machine Learning](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Spam_Detection_with_Machine_Learning.ipynb)
    2. [Next_Word_Prediction](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Next_Word_Prediction.ipynb)
    3. [Summarize_Text_with_Machine_Learning](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Summarize_Text_with_Machine_Learning.ipynb)
    4. [Chatbot_using_Python.ipynb](https://github.com/hussain0048/Projects-/blob/master/National%20Language%20processing/Chatbot_using_Python.ipynb)
