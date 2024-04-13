@@ -95,16 +95,6 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 02 - ⚙️Resources </h2> </summary>
  
-| Project Title | Description | Code |
-|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
--|
-</details>
-</details>
-
-</details>
-   
- 
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
  ##[**Alogrithems**](https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems)
@@ -271,5 +261,10 @@ Together, let's make this the best AI learning hub repository! 🚀
    13.   [techprofree](http://www.techprofree.com/category/projects/?fbclid=IwAR1OqTkkmEr26r-aiXqVc4m30WWiHBx2Uilxia5NII3nxu_S1ScDUCPZkro)
    14.   [Mathematics behind Data Science](https://www.youtube.com/watch?v=iq1pqWaXgOw&list=PLKR38d5oOkckjyQFQLjYumMJSgRCEpKeK)
    15.   [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects)
+
+  details>
+</details>
+
+</details>
 
 
