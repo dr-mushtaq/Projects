@@ -84,9 +84,9 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 04 - ⚙️ Natural language processing </h2> </summary>
  
-| Project Title/blog | Description | NoteBook |Category|
-|---|---|---|---|
-|[**🌐1- Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b) |Naive Bayes=97%,CountVectorizer ,Scikit-learn | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Spam_Detection_using_Machine_Learning.ipynb)|Text Classification|
+| Project Title/blog | Description | NoteBook |Category|To do List|
+|---|---|---|---|---|
+|[**🌐1- Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b) |Naive Bayes=97%,CountVectorizer ,Scikit-learn | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Spam_Detection_using_Machine_Learning.ipynb)|Text Classification|-try other classification model 2) Try to text preprocessing method stop word etc|
 -|
 </details>
 </details>
