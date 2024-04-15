@@ -54,9 +54,9 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
  
-| Project Title/blog | Description | Notebook |Category|
-|---|---|---|---|
-|[**🌐1- Stock Price Prediction using linear regression**](https://medium.com/@Coursesteach/stock-price-prediction-using-linear-regression-4839bc1240f0) |Acc=.99, Model=Linear Regression, Techniquest: sklearn, Label enconding, chained equations (MICE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Stock_Price_Prediction.ipynb)|Regression|
+| Project Title/blog | Description | Notebook |Category|To do List|
+|---|---|---|---|---|
+|[**🌐1- Stock Price Prediction using linear regression**](https://medium.com/@Coursesteach/stock-price-prediction-using-linear-regression-4839bc1240f0) |Acc=.99, Model=Linear Regression, Techniquest: sklearn, Label enconding, chained equations (MICE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Stock_Price_Prediction.ipynb)|Regression|1- Try other regression models|
 -|
 </details>
 </details>
