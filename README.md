@@ -74,9 +74,9 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 03 - ⚙️Computer Vision </h2> </summary>
  
-| Project Title | Description | Code |Category|
-|---|---|---|---|
-|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |Accuracy 13-80%,Model=multilayer perceptron, Keras, | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) |Classification|
+| Project Title | Description | Code |Category|To do list|
+|---|---|---|---|---|
+|[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |Accuracy 13-80%,Model=multilayer perceptron, Keras, | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) |Classification|Try other Deep learning model,CNN,etc|
 -|
 </details>
 </details>
