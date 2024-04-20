@@ -78,6 +78,8 @@ Together, let's make this the best AI learning hub repository! 🚀
 |---|---|---|---|---|
 |[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |Accuracy 13-80%,Model=multilayer perceptron, Keras, | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) |Classification|Try other Deep learning model,CNN,etc|
 -|
+|[**🌐2- Convert Color Image to Sketch**](https://medium.com/@Coursesteach/convert-color-image-to-sketch-9fd1781dce52) |gaussian filter,dogding| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Convert_Color_Image_to_Sketchipynb.ipynb) |Classification|Try other Deep learning model,CNN,etc|
+-|
 </details>
 </details>
 
