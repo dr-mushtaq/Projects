@@ -89,7 +89,6 @@ Together, let's make this the best AI learning hub repository! 🚀
 | Project Title/blog | Description | NoteBook |Category|To do List|
 |---|---|---|---|---|
 |[**🌐1- Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b) |Naive Bayes=97%,CountVectorizer ,Scikit-learn | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Spam_Detection_using_Machine_Learning.ipynb)|Text Classification|-try other classification model 2) Try to text preprocessing method stop word etc|
--|
 |[**🌐2-Hate Speech Detection with Machine Learning**](https://medium.com/@Coursesteach/hate-speech-detection-with-machine-learning-c7d12a217e69) |DT=75%,CountVectorizer ,Scikit-learn | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Hate_Speech_Detection_with_Machine_Learning(_Decsion_Tree)_(1).ipynb)|Text Classification|-try other classification model 2) Try to text preprocessing method stop word etc|
 -|
 </details>
