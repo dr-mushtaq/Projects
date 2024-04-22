@@ -104,6 +104,16 @@ Together, let's make this the best AI learning hub repository! 🚀
 
 <details> 
 <summary> <h2>Projects 02 - ⚙️Resources </h2> </summary>
+
+## 📚**🔎 Natural Language Processing**
+
+   - [**1-The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=public_post-text)
+   -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
+
+ ## 📚**🔎 Computer Vision**
+
+   - [**1-The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=public_post-text)
+   -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
