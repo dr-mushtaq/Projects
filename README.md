@@ -114,6 +114,11 @@ Together, let's make this the best AI learning hub repository! 🚀
 
    - [**1-500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲**](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
+
+ ## 📚**🔎 Machine Learning**
+
+   - [**1-500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲**](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)
+   -  [**2-ML-ProjectKart**](https://github.com/prathimacode-hub/ML-ProjectKart)
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
