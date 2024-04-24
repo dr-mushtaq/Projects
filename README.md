@@ -112,6 +112,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**3-ML-ProjectKart**](https://github.com/prathimacode-hub/ML-ProjectKart)|ML|All|
 |[**4-Machine Learning Notebooks**](https://github.com/dair-ai/ML-Notebooks)|ML,NLP,Transformers,Computer Vision,GAN|All|
 |[**5-Real-time-ML-Project**](https://github.com/ashishpatel26/Real-time-ML-Project)|Machine Learning and Data Science Applications in Industry|All|
+|[**6-Machine Learning Collection**](https://github.com/aladdinpersson/Machine-Learning-Collection?fbclid=IwZXh0bgNhZW0CMTAAAR0rAF-kyWSHTbqOndesJvQF_My4ECStZJ3dJv67jkNgBSzWiCZuqE0kzrk_aem_AeHJgbUrzIErDWrJ78xSXhzRSakIRnRF_XgRykvhK4e_tvGtgf7O8dE1mBaj_AsnkJx6FtyxEwQ8RBeKHV3KYgA1)|Basic to Advane, Video|All|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
