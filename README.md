@@ -110,6 +110,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | [**1-The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=public_post-text)|NLP|Colab NoteBook|
 |[**2-500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲**](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)|NLP,DL,CV| All|
 |[**3-ML-ProjectKart**](https://github.com/prathimacode-hub/ML-ProjectKart)|ML|All|
+|[**4-Machine Learning Notebooks**](https://github.com/dair-ai/ML-Notebooks)|ML,NLP,Transformers,Computer Vision,Generative Adversarial Network|All|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
