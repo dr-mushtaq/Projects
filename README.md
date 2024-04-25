@@ -57,22 +57,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | Project Title/blog | Description | Notebook |Category|To do List|Resource Link |Completed|
 |---|---|---|---|---|---|---|
 |[**🌐1- Stock Price Prediction using linear regression**](https://medium.com/@Coursesteach/stock-price-prediction-using-linear-regression-4839bc1240f0) |Acc=.99, Model=Linear Regression, Techniquest: sklearn, Label enconding, chained equations (MICE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Stock_Price_Prediction.ipynb)|Regression|1- Try other regression models|---|☑|
-|[**🌐2- Predict Ads Click Practice Data_Analysis**](https://medium.com/@Coursesteach/stock-price-prediction-using-linear-regression-4839bc1240f0) |Acc=.99, Model=Linear Regression, Techniquest: sklearn, Label enconding, chained equations (MICE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Predict_Ads_Click_%E2%80%93_Practice_Data_Analysis_and_Logistic_Regression_Prediction.ipynb)|Classification|1- Try other regression models|<ol dir="auto">
-<li>
- <a href="https://www.kaggle.com/anshulrai/cudnnlstm-implementation-93-7-accuracy" rel="nofollow">
-Amazon reviews dataset</a>
- </li>
-<li>
-<a href="https://www.kaggle.com/muonneutrino/sentiment-analysis-with-amazon-reviews" rel="nofollow">Amazon reviews dataset</a>
-</li>
-<li>
-<a href="https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed" rel="nofollow">Twitter Sentiment analysis - Medium</a>
-</li>
-<li>
-<a href="https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/" rel="nofollow">Twitter Sentiment analysis - analytics vidhya
-</a>
-</li>
-</ol>|---|
+|[**🌐2- Predict Ads Click Practice Data_Analysis**](https://medium.com/@Coursesteach/stock-price-prediction-using-linear-regression-4839bc1240f0) |Acc=.99, Model=Linear Regression, Techniquest: sklearn, Label enconding, chained equations (MICE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Predict_Ads_Click_%E2%80%93_Practice_Data_Analysis_and_Logistic_Regression_Prediction.ipynb)|Classification|1- Try other regression models|---|---|
 
 </details>
 </details>
