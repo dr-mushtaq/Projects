@@ -6,7 +6,7 @@
 
 Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
 
-**Overview**
+## **Overview👋🛒**
 
 This repository aims to provide a holistic view of cutting-edge technologies and research trends in the fields of Machine Learning, Deep Learning, Computer Vision, NLP, and beyond. Whether you're a novice eager to learn or a seasoned practitioner seeking inspiration, this repository offers a diverse range of projects and resources to cater to your interests and expertise.
 
