@@ -10,7 +10,7 @@ Welcome to the repository covering a wide array of topics including Machine Lear
 
 This repository aims to provide a holistic view of cutting-edge technologies and research trends in the fields of Machine Learning, Deep Learning, Computer Vision, NLP, and beyond. Whether you're a novice eager to learn or a seasoned practitioner seeking inspiration, this repository offers a diverse range of projects and resources to cater to your interests and expertise.
 
-**Features**
+## **Features👋🛒**
 
 Multifaceted Coverage: Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
 
@@ -20,7 +20,7 @@ Research Endeavors: Engage with research projects, papers, datasets, and experim
 
 Collaborative Environment: Foster collaboration, knowledge sharing, and community engagement through contributions, discussions, and feedback, promoting continuous learning and innovation.
 
-**Contents**
+## **Contents👋🛒**
 
 Machine Learning: Implementations of classical and contemporary Machine Learning algorithms for tasks such as regression, classification, clustering, and reinforcement learning.
 
@@ -32,11 +32,11 @@ Natural Language Processing: Discover NLP applications such as text classificati
 
 Research Projects: Engage with research-oriented projects, experiments, and papers addressing contemporary challenges and exploring novel solutions across diverse domains.
 
-**Usage**
+## **Usag👋🛒**
 
 Explore the repository's contents, delve into projects and resources aligned with your interests, and leverage the provided materials to enhance your skills and knowledge in Machine Learning, Deep Learning, Computer Vision, NLP, and research endeavors.
 
-**Contributing**
+## **Contributing🙌**
 
 Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please contact me on my skype ID:themushtaq48 for contribution.
 
