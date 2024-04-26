@@ -12,25 +12,25 @@ This repository aims to provide a holistic view of cutting-edge technologies and
 
 ## **Features👋🛒**
 
-Multifaceted Coverage: Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
+**Multifaceted Coverage:** Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
 
-Hands-On Projects: Explore practical implementations of algorithms, models, and techniques through hands-on projects, code examples, and Jupyter notebooks, designed to enhance your understanding and foster experimentation.
+**Hands-On Projects:** Explore practical implementations of algorithms, models, and techniques through hands-on projects, code examples, and Jupyter notebooks, designed to enhance your understanding and foster experimentation.
 
-Research Endeavors: Engage with research projects, papers, datasets, and experiments, providing insights into the latest advancements and methodologies in artificial intelligence and related fields.
+**Research Endeavors:** Engage with research projects, papers, datasets, and experiments, providing insights into the latest advancements and methodologies in artificial intelligence and related fields.
 
-Collaborative Environment: Foster collaboration, knowledge sharing, and community engagement through contributions, discussions, and feedback, promoting continuous learning and innovation.
+**Collaborative Environment:** Foster collaboration, knowledge sharing, and community engagement through contributions, discussions, and feedback, promoting continuous learning and innovation.
 
 ## **Contents👋🛒**
 
-Machine Learning: Implementations of classical and contemporary Machine Learning algorithms for tasks such as regression, classification, clustering, and reinforcement learning.
+**Machine Learning:** Implementations of classical and contemporary Machine Learning algorithms for tasks such as regression, classification, clustering, and reinforcement learning.
 
-Deep Learning: Explore advanced Deep Learning architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), and transformer models.
+**Deep Learning:** Explore advanced Deep Learning architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), and transformer models.
 
-Computer Vision: Delve into Computer Vision projects and techniques for image classification, object detection, image segmentation, facial recognition, and more.
+**Computer Vision:** Delve into Computer Vision projects and techniques for image classification, object detection, image segmentation, facial recognition, and more.
 
-Natural Language Processing: Discover NLP applications such as text classification, sentiment analysis, named entity recognition, machine translation, and text generation.
+**Natural Language Processing:** Discover NLP applications such as text classification, sentiment analysis, named entity recognition, machine translation, and text generation.
 
-Research Projects: Engage with research-oriented projects, experiments, and papers addressing contemporary challenges and exploring novel solutions across diverse domains.
+**Research Projects:** Engage with research-oriented projects, experiments, and papers addressing contemporary challenges and exploring novel solutions across diverse domains.
 
 ## **Usag👋🛒**
 
@@ -38,7 +38,7 @@ Explore the repository's contents, delve into projects and resources aligned wit
 
 ## **Contributing🙌**
 
-Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please contact me on my skype ID:themushtaq48 for contribution.
+Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please contact me on my skype ID:**themushtaq48, email:mushtaqmsit@gmail.com** for contribution.
 
 Together, let's make this the best AI learning hub repository! 🚀
 
