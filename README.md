@@ -298,7 +298,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 
 - Then in Github, in your cloned repository find the option to make a pull request 
 
-> print("Start contributing for Machine Learning")
+> print("Start contributing for Projects")
 
 ## ⚙️ Things to Note
 
