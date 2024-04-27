@@ -94,7 +94,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Projects 02 - ⚙️Python </h2> </summary>
+<summary> <h2>Projects 05 - ⚙️Python </h2> </summary>
  
 | Project Title | Description | Code |Created|Completed
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Projects 04 - ⚙️ Research </h2> </summary>
+<summary> <h2>Projects 06 - ⚙️ Research </h2> </summary>
  
 | Project Title | Datasets | Code |
 |---|---|---|
