@@ -74,11 +74,11 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 03 - ⚙️Computer Vision </h2> </summary>
  
-| Project Title | Description | Code |Category|To do list|Creator|Added|
-|---|---|---|---|---|---|---|
+| Project Title | Description | Code |Category|To do list|Creator|Added|Completed|
+|---|---|---|---|---|---|---|---|
 |[**🌐1- Build a simple image Classifer**](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) |Accuracy 13-80%,Model=multilayer perceptron, Keras, | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) |Classification|Try other Deep learning model,CNN,etc|Dr Mushtaq|2020-09-06|
 |[**🌐2- Convert Color Image to Sketch**](https://medium.com/@Coursesteach/convert-color-image-to-sketch-9fd1781dce52) |gaussian filter,dogding| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Convert_Color_Image_to_Sketchipynb.ipynb) |Filtering|Try technique|Dr.Mushtaq|2024-04-20|
-|[**🌐3- Building a Real Time Emotion Detection with Python**](https://medium.com/@Coursesteach/convert-color-image-to-sketch-9fd1781dce52) |gaussian filter,dogding| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Building_a_Real_Time_Emotion_Detection_with_Python.ipynb) |Filtering|Try technique|Dr.Mushtaq|2024-04-20|
+|[**🌐3- Building a Real Time Emotion Detection with Python**](https://medium.com/@Coursesteach/convert-color-image-to-sketch-9fd1781dce52) |gaussian filter,dogding| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Building_a_Real_Time_Emotion_Detection_with_Python.ipynb) |Filtering|Try technique|Dr.Mushtaq|2024-04-20|Progress|
 </details>
 </details>
 
