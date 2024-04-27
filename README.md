@@ -98,7 +98,7 @@ Together, let's make this the best AI learning hub repository! 🚀
  
 | Project Title | Description | Code |Created|Completed
 |---|---|---|---|---|
-|[**🌐1-Generating QR Code in Python**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb)|Saad Abbasi|☑ |
+|[**🌐1-Generating QR Code in Python**](https://medium.com/@Coursesteach/generating-qr-code-in-python-b2e270422637) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb)|Saad Abbasi|☑ |
 </details>
 </details>
 
