@@ -125,7 +125,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**6-Machine Learning Collection**](https://github.com/aladdinpersson/Machine-Learning-Collection?fbclid=IwZXh0bgNhZW0CMTAAAR0rAF-kyWSHTbqOndesJvQF_My4ECStZJ3dJv67jkNgBSzWiCZuqE0kzrk_aem_AeHJgbUrzIErDWrJ78xSXhzRSakIRnRF_XgRykvhK4e_tvGtgf7O8dE1mBaj_AsnkJx6FtyxEwQ8RBeKHV3KYgA1)|Basic to Advane, Video|All|
 |[**7-Data Science Projects**](https://github.com/veb-101/Data-Science-Projects)|Basic to Advane, Video|All|
 |[**8-Introduction to Machine Learning**](https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master)|Basic to Advane, Video|All|
-|[**9-Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python?fbclid=IwZXh0bgNhZW0CMTEAAR2eFaT5BBVrkMcqaT4zGwy60y2ErdckbkoUfrDFIb7dfI1swdNNiTd3Ow8_aem_AaJ2k7sLJEQU5GttjniHz3Z2JjnSzZm5h1cVq4T3vEuU05iWpjBdKLz3xWHJE_ZBKqxhQRtyBhQI--n-Xa0v92oN)|Basic to Advane, Video|ML,NLP,CV,Forcasting|
+|[**9-Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python?fbclid=IwZXh0bgNhZW0CMTEAAR2eFaT5BBVrkMcqaT4zGwy60y2ErdckbkoUfrDFIb7dfI1swdNNiTd3Ow8_aem_AaJ2k7sLJEQU5GttjniHz3Z2JjnSzZm5h1cVq4T3vEuU05iWpjBdKLz3xWHJE_ZBKqxhQRtyBhQI--n-Xa0v92oN)|ML,NLP,CV,Forcasting|---|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
