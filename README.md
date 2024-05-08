@@ -128,6 +128,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**8-Introduction to Machine Learning**](https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master)|Basic to Advane, Video|All|
 |[**9-Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python?fbclid=IwZXh0bgNhZW0CMTEAAR2eFaT5BBVrkMcqaT4zGwy60y2ErdckbkoUfrDFIb7dfI1swdNNiTd3Ow8_aem_AaJ2k7sLJEQU5GttjniHz3Z2JjnSzZm5h1cVq4T3vEuU05iWpjBdKLz3xWHJE_ZBKqxhQRtyBhQI--n-Xa0v92oN)|ML,NLP,CV,Forcasting|---|
 |[**10-Awesome-AI-Data-Guided-Projects**](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects)|ML,NLP,CV,Forcasting|---|
+|[**11-Getting Started with Machine Learning-data-flair**](https://data-flair.training/blogs/machine-learning-tutorials-home/?fbclid=IwZXh0bgNhZW0CMTEAAR0WqXpd_wCc9BmnEy5nLmSle9_8KpQW-3X438LvbmD1FnzKiDUcy9e5biU_aem_AbrVXC-xbdBjyILla_yj2SEYoWZHO6jnGnINlfsNSQOB0kP6n78bOhyo4tnlVb6K3QW_PyZspQPYnzvd8NyVnQaU)|ML,NLP,CV,Forcasting|---|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
