@@ -130,6 +130,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**10-Awesome-AI-Data-Guided-Projects**](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects)|ML,NLP,CV,Forcasting|---|
 |[**11-Getting Started with Machine Learning-data-flair**](https://data-flair.training/blogs/machine-learning-tutorials-home/?fbclid=IwZXh0bgNhZW0CMTEAAR0WqXpd_wCc9BmnEy5nLmSle9_8KpQW-3X438LvbmD1FnzKiDUcy9e5biU_aem_AbrVXC-xbdBjyILla_yj2SEYoWZHO6jnGnINlfsNSQOB0kP6n78bOhyo4tnlVb6K3QW_PyZspQPYnzvd8NyVnQaU)|ML,NLP,CV,Forcasting|---|
 |[**12-awesome-python-projects**](https://github.com/garimasingh128/awesome-python-projects/tree/master)|ML,NLP,CV,Forcasting|---|
+|[**13-All-In-One-Python-Projects**](https://github.com/king04aman/All-In-One-Python-Projects/tree/main)|ML,NLP,CV,Forcasting|---|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
