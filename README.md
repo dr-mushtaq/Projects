@@ -129,7 +129,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**9-Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python?fbclid=IwZXh0bgNhZW0CMTEAAR2eFaT5BBVrkMcqaT4zGwy60y2ErdckbkoUfrDFIb7dfI1swdNNiTd3Ow8_aem_AaJ2k7sLJEQU5GttjniHz3Z2JjnSzZm5h1cVq4T3vEuU05iWpjBdKLz3xWHJE_ZBKqxhQRtyBhQI--n-Xa0v92oN)|ML,NLP,CV,Forcasting|---|
 |[**10-Awesome-AI-Data-Guided-Projects**](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects)|ML,NLP,CV,Forcasting|---|
 |[**11-awesome-python-projects**](https://github.com/garimasingh128/awesome-python-projects/tree/master)|ML,NLP,CV,Forcasting|---|
-|[**12-All-In-One-Python-Projects**](https://github.com/king04aman/All-In-One-Python-Projects/tree/main)|ML,NLP,CV,Forcasting|---|
+|[**12-All-In-One-Python-Projects**](https://github.com/king04aman/All-In-One-Python-Projects/tree/main)|Python Basic- Advance|---|
 
 
  
