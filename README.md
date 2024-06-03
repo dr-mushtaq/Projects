@@ -329,6 +329,11 @@ Together, let's make this the best AI learning hub repository! 🚀
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
 
+  ## ⚙🔍 Explore more
+  
+Explore Free world top University computer Vision ,NLP, Machine Learning , Deep Learning , Time Series and Python Projects, access insightful slides and source code, and tap into a wealth of free online websites, github repository related Machine Learning Projects. Connect with like-minded individuals on Reddit, Facebook, and beyond, and stay updated with our YouTube channel and GitHub repository. Don’t wait — enroll now and unleash your Machine Learning projects potential!”
+* [Machine Learning projects course](https://coursesteach.com/enrol/index.php?id=72)
+
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
