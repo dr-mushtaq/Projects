@@ -65,8 +65,8 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 02 - ⚙️Deep Learning </h2> </summary>
  
-| Project Title | Description | Code |Resource Link|Completed
-|---|---|---|---|---|
+| Project Title | Description | Code |Category|To do list|Creator|Added|Completed|
+|---|---|---|---|---|---|---|---|
 |[**🌐1- Credit Card Fraud Detection**](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras/tree/master) |Autoencoders,Keras| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Image_Data_Preprocessing.ipynb) |Preprocessing|Add more Preprocessing steps|Dr.Mushtaq|2024-06-08|Pending|
 </details>
 </details>
