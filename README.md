@@ -67,7 +67,7 @@ Together, let's make this the best AI learning hub repository! 🚀
  
 | Project Title | Description | Code |Resource Link|Completed
 |---|---|---|---|---|
-|[**🌐5- Image Preprocessing using Python**](https://medium.com/@Coursesteach/image-preprocessing-using-python-2db2fd91618a) |Python,scikit-image| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Image_Data_Preprocessing.ipynb) |Preprocessing|Add more Preprocessing steps|Dr.Mushtaq|2024-06-08|☑|
+|[**🌐1- Credit Card Fraud Detection**](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras/tree/master) |Autoencoders,Keras| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Image_Data_Preprocessing.ipynb) |Preprocessing|Add more Preprocessing steps|Dr.Mushtaq|2024-06-08|Pending|
 </details>
 </details>
 
