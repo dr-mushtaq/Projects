@@ -112,11 +112,13 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>Projects 06 - ⚙️ Research </h2> </summary>
  
+##  📚Chapter: 1  **Projects Details**
+
 | Project Title | Datasets | Code |
 |---|---|---|
 | [**1-Building education chatbot for decreasing instructor workload in e-learning system**](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |-|
 
-##  📚Chapter: 3  **Model metrics benchmarks**
+##  📚Chapter: 2  **Model metrics benchmarks**
 
 |   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
 |---|---|---|---|---|---|---|
