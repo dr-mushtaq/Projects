@@ -1,7 +1,7 @@
 
 ## **A-Z Guide to Machine Learning Projects👋🛒**
 <p align="center">
-<img src="https://github.com/hussain0048/Projects-/blob/master/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png"></a>
+<img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png"></a>
 </p>
 
 Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
