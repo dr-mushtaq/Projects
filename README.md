@@ -163,6 +163,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**11-awesome-python-projects**](https://github.com/garimasingh128/awesome-python-projects/tree/master)|ML,NLP,CV,Forcasting|---|
 |[**12-All-In-One-Python-Projects**](https://github.com/king04aman/All-In-One-Python-Projects/tree/main)|Python Basic- Advance|---|
 |[**13-Machine-Learning-Projects-aswintechguy**](https://github.com/aswintechguy/Machine-Learning-Projects/tree/master)|Python Basic- Advance|---|
+|[**14-Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python/tree/master)|Python Basic- Advance|---|
 
 
  
