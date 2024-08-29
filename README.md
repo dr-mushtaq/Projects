@@ -50,6 +50,14 @@ Together, let's make this the best AI learning hub repository! 🚀
 
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/90909828/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CourseTeach)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coursesteach.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>]( 0000-0002-7238-7924)
 
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
+[![](https://img.shields.io/badge/Twitter-darkgreen?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Instagram-32012F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Kaggle-darkblue?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
+
+
 
 <details> 
 <summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
