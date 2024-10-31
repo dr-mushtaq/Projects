@@ -334,6 +334,7 @@ Together, let's make this the best AI learning hub repository! 🚀
    13.   [techprofree](http://www.techprofree.com/category/projects/?fbclid=IwAR1OqTkkmEr26r-aiXqVc4m30WWiHBx2Uilxia5NII3nxu_S1ScDUCPZkro)
    14.   [Mathematics behind Data Science](https://www.youtube.com/watch?v=iq1pqWaXgOw&list=PLKR38d5oOkckjyQFQLjYumMJSgRCEpKeK)
    15.   [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects)
+   16.   [7 Computer Vision Projects for All Levels](https://www.kdnuggets.com/7-computer-vision-projects-for-all-levels)
 
   details>
 </details>
