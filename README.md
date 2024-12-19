@@ -166,6 +166,8 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**12-All-In-One-Python-Projects**](https://github.com/king04aman/All-In-One-Python-Projects/tree/main)|Python Basic- Advance|---|
 |[**13-Machine-Learning-Projects-aswintechguy**](https://github.com/aswintechguy/Machine-Learning-Projects/tree/master)|Python Basic- Advance|---|
 |[**14-Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python/tree/master)|Python Basic- Advance|---|
+|[**15-awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps?fbclid=IwZXh0bgNhZW0CMTAAAR1zFKbLZyc32Ry7tyXX66Pv1xa1RrDfVCjsGHjrSh0GbGxsuHEym3MTRiE_aem_uqDX_m-vN7pacaT-_gGGDg)|Awesome LLM Apps|---|
+
 
 
  
