@@ -43,17 +43,17 @@ Contributions are encouraged and appreciated! Whether it's adding new projects, 
 Together, let's make this the best AI learning hub repository! 🚀
 
                           https://coursesteach.com/
+## **🌍 Join Our Community**
 
- ## **📬Contact**
-   
-   If you want to contact me, you can reach me through social handles.
-   
-[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@coursesteach-mv5si/videos)
-[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@Coursesteach)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/90909828/admin/dashboard/)
-[![](https://img.shields.io/badge/Twitter-darkgreen?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/Mushtaq03361498)
-[![](https://img.shields.io/badge/whatsapp-32012F?style=plastic&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
-[![](https://img.shields.io/badge/Kaggle-darkblue?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/organizations/courseteach/invite/4c839a825abc44c9a1aebd8e9cc8d94c)
+🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
+
+🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
+
+🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
+
+🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
+
+📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
 
 
@@ -89,6 +89,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**🌐4- Age, Gender and Race Prediction**](https://medium.com/@Coursesteach/age-gender-and-race-prediction-21acd3193bf4) |Age Prediction=CNN= ACC=.91,Gender Prediction=CNN Acc=,86, Ethnicity Prediction CNN Acc=0.74,Kera| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Age%2C_Gender_and_Race_Prediction.ipynb) |Classification|-Real time detection not working(Need to correct in colab)- Try others DL techniqueS|Dr.Mushtaq|2024-06-2|☑|
 |[**🌐5- Image Preprocessing using Python-s**](https://mushtaqmsit.substack.com/p/essential-techniques-for-image-data) |Python,scikit-image| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Image_Data_Preprocessing.ipynb) |Preprocessing|Add more Preprocessing steps|Dr.Mushtaq|2024-06-08|☑|
 |[**🌐6- Traffic Sign Classification with Keras and Deep Learning**](https://medium.com/@Coursesteach/traffic-signal-classification-with-keras-and-deep-learning-426fd895ac7e) |Python,scikit-image,OpenCV,NumPy, CNN Test acc:.97| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects/blob/master/Traffic_Sign_Classification_with_Keras_and_Deep_Learning.ipynb) |Classification |Add more Preprocessing steps and Computer Vision methods|Dr.Mushtaq|2024-08-16|☑|
+|**🌐7- Moment-based feature extraction for image classification**|** Zernike moments are widely used for shape representation due to their rotation-invariant properties. This implementation extracts Zernike features from grayscale images and applies them in a transformer-based classification model.**| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Projects/blob/master/National%20Language%20processing/NLP_miniproject.ipynb) |Classification |Add more Preprocessing steps and Computer Vision methods|AtharvMalusare|2025-04-1|☑|
 
 
 </details>
