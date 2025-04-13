@@ -178,7 +178,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>- ⚙**Roadmap or Learning Path** </h2> </summary>
+<summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
  
 ## 🗺️ Suggested Learning Path
 1. 🟢 Start with ML Regression → Classification → Clustering
