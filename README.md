@@ -178,6 +178,15 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
+<summary> <h2>- ⚙**Roadmap or Learning Path** </h2> </summary>
+ 
+## 🗺️ Suggested Learning Path
+1. 🟢 Start with ML Regression → Classification → Clustering
+2. 🟡 Move to Deep Learning and Computer Vision
+3. 🔴 Advance into NLP, Transformers, and Research Projects
+
+
+<details> 
 <summary> <h2> 📝 Resources </h2> </summary>
  
 | Title | Category | Type |
