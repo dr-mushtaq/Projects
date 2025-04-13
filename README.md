@@ -148,6 +148,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 </details>
 
+<details> 
 <summary> <h2>Projects 04 - ⚙️ test Natural Language Processing</h2> </summary>
  
 | Project Title / Blog | Description | Notebook | Category | To-Do List | Creator | Added | Completed |
