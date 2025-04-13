@@ -41,12 +41,12 @@ Explore the repository's contents, delve into projects and resources aligned wit
 1.  📚 Comprehensive AI Curriculum: Dive deep into Machine Learning, Deep Learning, NLP, Computer Vision, and more—from foundational concepts to advanced, industry-level techniques.
 
 2. 🛠 Hands-On Real-World Projects: Each topic is backed by practical projects, complete with Jupyter notebooks, datasets, and implementation guides. Build everything from spam detectors and sentiment analyzers to real-time emotion detection and recommender systems.
+   
+4. 🤝 Global Collaborative Learning: Connect and collaborate with learners, researchers, and developers across the globe through GitHub issues, discussions, and community forums. Contribute code, suggest improvements, or explore new topics together
 
-🤝 Global Collaborative Learning: Connect and collaborate with learners, researchers, and developers across the globe through GitHub issues, discussions, and community forums. Contribute code, suggest improvements, or explore new topics together
+5. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more. Convert this for computer vision so that it attract contributor
 
-4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more. Convert this for computer vision so that it attract contributor
-
-🌍 Open Source Contribution Friendly: Whether you're a beginner looking to learn or a pro ready to contribute, this course is designed to support your journey. Add new features, optimize models, write tutorials, or simply share resources—the repo is built by the community, for the community.
+6. 🌍 Open Source Contribution Friendly: Whether you're a beginner looking to learn or a pro ready to contribute, this course is designed to support your journey. Add new features, optimize models, write tutorials, or simply share resources—the repo is built by the community, for the community.
 
 ## **💡 How to Participate?**
 
