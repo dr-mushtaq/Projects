@@ -70,6 +70,15 @@ Explore the repository's contents, delve into projects and resources aligned wit
 
 Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please contact me on my skype ID:**themushtaq48, email:mushtaqmsit@gmail.com** for contribution.
 
+## 🛠️ We're Actively Looking for Contributors To:
+- Add new tutorials on projects
+- Complated Pending projects
+- Fix broken links and typos
+- Complate new projects
+- Suggestion other news project with resource
+- improve existing projects
+- suggestion other important website ,repistory,youtube Channel etc
+
 Together, let's make this the best AI learning hub repository! 🚀
 
                           https://coursesteach.com/
