@@ -190,9 +190,10 @@ Together, let's make this the best AI learning hub repository! 🚀
 <summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
  
 ## 🗺️ Suggested Learning Path
-1. 🟢 Start with ML Regression → Classification → Clustering
-2. 🟡 Move to Deep Learning and Computer Vision
-3. 🔴 Advance into NLP, Transformers, and Research Projects
+1. 🟢 Start with ML Projects → Classification → Clustering->Regression
+2.                            ->Python->Sklearn->Colab or VSCode
+3. 🟡 Move to Deep Learning and Computer Vision
+4. 🔴 Advance into NLP, Transformers, and Research Projects
 
 
 <details> 
