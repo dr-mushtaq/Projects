@@ -217,6 +217,8 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**14-Machine-Learning-with-Python**](https://github.com/susanli2016/Machine-Learning-with-Python/tree/master)|Python Basic- Advance|---|
 |[**15-awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps?fbclid=IwZXh0bgNhZW0CMTAAAR1zFKbLZyc32Ry7tyXX66Pv1xa1RrDfVCjsGHjrSh0GbGxsuHEym3MTRiE_aem_uqDX_m-vN7pacaT-_gGGDg)|Awesome LLM Apps|---|
 |[**16-Project Based Learning**](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)|Python Basic- Advance|---|
+|[**17-How I Built Micro Startups with GPT as My Co-Founder**](https://dev.to/snappytuts/how-i-built-micro-startups-with-gpt-as-my-co-founder-5gci)|Python Basic- Advance|---|
+
 
 
 
