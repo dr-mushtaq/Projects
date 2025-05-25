@@ -194,6 +194,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 2.                            ->Python->Sklearn->Colab or VSCode
 3. 🟡 Move to Deep Learning and Computer Vision
 4. 🔴 Advance into NLP, Transformers, and Research Projects
+</details>
 
 
 <details> 
@@ -219,7 +220,12 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**16-Project Based Learning**](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)|Python Basic- Advance|---|
 |[**17-How I Built Micro Startups with GPT as My Co-Founder**](https://dev.to/snappytuts/how-i-built-micro-startups-with-gpt-as-my-co-founder-5gci)|Python Basic- Advance|---|
 
+##  🔹Chapter2: - **Github**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Prasad Jadhav**](https://github.com/prasadmjadhav2?tab=repositories)|It contains important projects|---|
 
+</details>
 
 
  
