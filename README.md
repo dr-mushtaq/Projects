@@ -161,7 +161,8 @@ Together, let's make this the best AI learning hub repository! 🚀
 | Project Title | Description | Code |Created|Completed
 |---|---|---|---|---|
 |[**🌐1-Generating QR Code in Python**](https://medium.com/@Coursesteach/generating-qr-code-in-python-b2e270422637) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb)|Saad Abbasi|☑ |
-|[**🌐1-Important Python Script**](https://medium.com/@Coursesteach/important-python-scripts-to-save-your-time-1bb839cd7600) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb)|Saad Abbasi|☑ |
+|[**🌐2-Important Python Script**](https://medium.com/@Coursesteach/important-python-scripts-to-save-your-time-1bb839cd7600) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb)|Saad Abbasi|☑ |
+|[**🌐3-Statistical App in Streamlit**](https://www.statology.org/how-to-build-a-simple-statistical-app-in-streamlit/) | The app we’ll build won’t just show basic stats like mean and median; that’s too easy. Instead, we’ll create a more advanced tool that loads a CSV dataset and allows users to explore descriptive statistics, correlation heatmaps, and distribution plots, with options to filter data by column types, select variables, and even compare multiple variables visually. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb)|Saad Abbasi|Pending|
 </details>
 </details>
 
