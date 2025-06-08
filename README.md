@@ -225,6 +225,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | Title/link| Description | Code |
 |---|---|---|
 |[**🌐1- Prasad Jadhav**](https://github.com/prasadmjadhav2?tab=repositories)|It contains important projects|---|
+|[**🌐2- NLP-Projects**](https://github.com/gaoisbest/NLP-Projects)|Natural Language Processing projects, which includes concepts and scripts about:|---|
 
 </details>
 
