@@ -227,6 +227,12 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**🌐1- Prasad Jadhav**](https://github.com/prasadmjadhav2?tab=repositories)|It contains important projects|---|
 |[**🌐2- NLP-Projects**](https://github.com/gaoisbest/NLP-Projects)|Natural Language Processing projects, which includes concepts and scripts about:|---|
 
+##  🔹Chapter2: - **Important Website**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Machine Learning and LLM System Design Case Studies**](https://www.hubnx.com/nodes/9fffa434-b4d0-47d2-9e66-1db513b1fb97)|500+ Case Studies of Machine Learning and LLM System Design|---|
+
+
 </details>
 
 
