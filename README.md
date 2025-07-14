@@ -202,7 +202,22 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
 
-## 🔄 Steps  Machine Learning Learning Roadmap
+## 🔄 Phase1- Python Learning Roadmap
+
+| 🧠 Stage | 🔍 Key Topics | ⚙️ Tools / Libraries | 📌 Sample Projects / Ideas |
+|----------|---------------|------------------------|-----------------------------|
+| 🔰 **Python Basics** | - Variables, Data Types<br>- Input/Output<br>- Conditional Statements<br>- Loops | Python (Core), VSCode, Jupyter Notebook | - Calculator App<br>- Number Guessing Game<br>- Simple Interest Calculator |
+| 📚 **Data Structures** | - Lists, Tuples, Sets, Dictionaries<br>- Stacks & Queues<br>- List Comprehensions | Python Built-ins, Collections | - Student Gradebook<br>- Frequency Counter<br>- Stack-based Expression Evaluator |
+| 🔄 **Functions & Modules** | - Defining Functions<br>- Arguments & Return Values<br>- Built-in Modules<br>- Custom Modules | Math, Random, OS, Datetime | - Dice Simulator<br>- File Organizer<br>- Quiz App |
+| 📁 **File Handling & Exceptions** | - Read/Write Files<br>- CSV, JSON<br>- Try/Except Handling | OS, CSV, JSON | - Contact Book Manager<br>- Expense Tracker with CSV<br>- JSON-Based Notes App |
+| 🧪 **Object-Oriented Programming (OOP)** | - Classes & Objects<br>- Inheritance & Encapsulation<br>- Dunder Methods | Python OOP | - Student Management System<br>- Bank Account Class<br>- Library Book Tracker |
+| 📊 **Python for Data Analysis** | - NumPy Basics<br>- Pandas DataFrames<br>- Data Cleaning<br>- Descriptive Statistics | NumPy, Pandas, Matplotlib | - Sales Data Analyzer<br>- Weather Trends Dashboard<br>- CSV to Graph Project |
+| 🌐 **APIs, Web & Automation** | - Web APIs<br>- Requests & JSON<br>- Web Scraping<br>- Automation Scripts | Requests, BeautifulSoup, Selenium | - Weather Fetcher<br>- News Scraper<br>- WhatsApp Auto-Sender |
+| 🧠 **Python for ML & AI** | - Intro to Scikit-learn<br>- Data Preprocessing<br>- ML Pipelines<br>- Basic Model Training | Scikit-learn, Pandas, NumPy | - Iris Classifier<br>- Diabetes Predictor<br>- Resume Screener |
+| ⚙️ **Deployment & Integration** | - Virtual Environments<br>- Packaging Projects<br>- CLI Tools<br>- Web App Deployment | Streamlit, Gradio, Flask | - To-Do Web App<br>- Chatbot with Gradio<br>- Image Upload App |
+
+
+## 🔄 Phase 2- Machine Learning Learning Roadmap
 
 | 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Libraries | 📌 Sample Projects / Ideas |
 |----------|---------------|------------------------|-----------------------------|
@@ -214,7 +229,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | 🧪 **Model Optimization** | - Hyperparameter Tuning (GridSearch, RandomSearch)<br>- Feature Selection<br>- Ensemble Methods | Scikit-learn, XGBoost, Optuna | - Boosting vs Bagging Comparison<br>- AutoML Experiments<br>- LightGBM Tuning |
 | ⚙️ **Deployment & Applications** | - Model Export (Pickle, Joblib)<br>- Streamlit/Gradio UIs<br>- REST API via FastAPI/Flask | Streamlit, Flask, FastAPI, Gradio | - Interactive Loan Prediction App<br>- Resume Screening API<br>- Diabetes Prediction Web App |
 
-## 🔄 Deep Learning Learning Roadmap
+## 🔄 Phase 3  Deep Learning Learning Roadmap
 
 | 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Frameworks | 📌 Sample Projects / Ideas |
 |----------|---------------|------------------------|-----------------------------|
@@ -227,7 +242,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | 📚 **Research & Real-world Applications** | - Explainability (Grad-CAM, SHAP)<br>- Few-shot & Zero-shot Learning<br>- Foundation Models (CLIP, SAM) | PyTorch, Hugging Face, OpenAI API | - Visual Explanations with Grad-CAM<br>- LLM for Vision & Language Tasks<br>- Custom Training Pipelines |
 
 
-## 🔄 Computer Vision Learning Roadmap
+## 🔄 Phase 4- Computer Vision Learning Roadmap
 
 | 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Frameworks | 📌 Sample Projects / Ideas |
 |----------|---------------|------------------------|-----------------------------|
@@ -236,7 +251,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | ⚡ **Deploy & Integrate** | - Convert Models to Web Apps<br>- Real-Time Video Feed Processing<br>- RESTful APIs | Streamlit, Gradio, FastAPI, Flask, OpenCV | - Real-Time CV App with Webcam<br>- Streamlit Dashboard for Image Classification<br>- Gradio-powered Detection Tool |
 | 📚 **Research & Advanced CV** | - Vision Transformers (ViT, DETR, SAM, DINOv2)<br>- Zernike & Hu Moments<br>- Few-shot Learning | Hugging Face Transformers, OpenCV, PyTorch | - SAM-based Real-Time Segmentation<br>- Zernike Feature-Based Classifier<br>- ViT for Scene Classification |
 
-## 🔄 Natural Language Processing Learning Roadmap
+## 🔄 Phase 5-Natural Language Processing Learning Roadmap
 
 | 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Libraries | 📌 Sample Projects / Ideas |
 |----------|---------------|------------------------|-----------------------------|
@@ -247,11 +262,6 @@ Together, let's make this the best AI learning hub repository! 🚀
 | 🤖 **Transformers & LLMs** | - BERT, RoBERTa, GPT<br>- Sentence Transformers<br>- Fine-tuning Pretrained Models | Hugging Face Transformers, SentenceTransformers | - Chatbot for Education<br>- Multilingual POS Tagging<br>- Next Word Prediction |
 | ⚡ **Deploy & Integrate** | - REST APIs<br>- Chatbots<br>- Streamlit/Gradio UI | FastAPI, Flask, Gradio, Streamlit | - Chatbot with Feedback Logs<br>- Resume Screening App<br>- Stress Detection Tool |
 | 📚 **Research & Advanced Topics** | - Transfer Learning<br>- Few-shot/Zero-shot NLP<br>- Prompt Engineering<br>- Explainable NLP | OpenAI, LLaMA, LangChain | - Hybrid Summarizer with Transformers<br>- Custom Dataset Fine-Tuning<br>- LLM-Powered Feedback Analyzer |
-
-
-
-
-
 
 </details>
 
