@@ -211,49 +211,19 @@ Together, let's make this the best AI learning hub repository! 🚀
 | ⚡ **Deploy & Integrate** | - Convert Models to Web Apps<br>- Real-Time Video Feed Processing<br>- RESTful APIs | Streamlit, Gradio, FastAPI, Flask, OpenCV | - Real-Time CV App with Webcam<br>- Streamlit Dashboard for Image Classification<br>- Gradio-powered Detection Tool |
 | 📚 **Research & Advanced CV** | - Vision Transformers (ViT, DETR, SAM, DINOv2)<br>- Zernike & Hu Moments<br>- Few-shot Learning | Hugging Face Transformers, OpenCV, PyTorch | - SAM-based Real-Time Segmentation<br>- Zernike Feature-Based Classifier<br>- ViT for Scene Classification |
 
- 
-## 🔄 Computer Vision Learning Roadmap
+## 🔄 Natural Language Processing Learning Roadmap
 
-<details open>
-<summary>📌 Click to Expand the Learning Path</summary>
+| 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Libraries | 📌 Sample Projects / Ideas |
+|----------|---------------|------------------------|-----------------------------|
+| 🧪 **Text Preprocessing** | - Tokenization<br>- Stopword Removal<br>- Lemmatization & Stemming<br>- POS Tagging<br>- NER | NLTK, spaCy, TextBlob | - Text Preprocessing 101<br>- POS Tagging for Multiple Languages<br>- Named Entity Recognition |
+| 🧠 **Traditional NLP Models** | - Bag of Words<br>- TF-IDF<br>- Naive Bayes<br>- SVM for text<br>- Logistic Regression | Scikit-learn, Pandas, NumPy | - Spam Detection<br>- Hate Speech Classifier<br>- Sports Content Detection |
+| 🔡 **Text Representation & Word Embeddings** | - Word2Vec<br>- GloVe<br>- FastText<br>- Sentence Embeddings | Gensim, spaCy, HuggingFace | - Semantic Text Similarity<br>- Intent Classification<br>- Resume Filtering |
+| 🧠 **Deep Learning for NLP** | - RNN, LSTM, GRU<br>- BiLSTM<br>- Attention Mechanism | Keras, TensorFlow, PyTorch | - Fake News Detection<br>- Text Summarization<br>- Emotion Detection |
+| 🤖 **Transformers & LLMs** | - BERT, RoBERTa, GPT<br>- Sentence Transformers<br>- Fine-tuning Pretrained Models | Hugging Face Transformers, SentenceTransformers | - Chatbot for Education<br>- Multilingual POS Tagging<br>- Next Word Prediction |
+| ⚡ **Deploy & Integrate** | - REST APIs<br>- Chatbots<br>- Streamlit/Gradio UI | FastAPI, Flask, Gradio, Streamlit | - Chatbot with Feedback Logs<br>- Resume Screening App<br>- Stress Detection Tool |
+| 📚 **Research & Advanced Topics** | - Transfer Learning<br>- Few-shot/Zero-shot NLP<br>- Prompt Engineering<br>- Explainable NLP | OpenAI, LLaMA, LangChain | - Hybrid Summarizer with Transformers<br>- Custom Dataset Fine-Tuning<br>- LLM-Powered Feedback Analyzer |
 
-### 🧪 Start with Preprocessing
-- 📷 **Techniques**: Edge detection, filters, thresholding, contours
-- 🧰 **Tools**: `OpenCV`, `scikit-image`, `matplotlib`
-- ✅ **Example Projects**:
-  - Convert Image to Sketch
-  - Histogram Equalization
-  - Edge & Contour Detection
 
----
-
-### 🧠 Move to Deep Learning
-- 🧠 **Topics**: CNNs, object detection (YOLO, SSD), segmentation (U-Net), feature extraction
-- 🧰 **Frameworks**: `TensorFlow`, `PyTorch`, `Keras`
-- ✅ **Example Projects**:
-  - Traffic Sign Classification
-  - Emotion Detection with CNN
-  - Age/Gender Prediction
-
----
-
-### ⚡ Deploy & Integrate
-- 🌐 **Convert Models To**: `Streamlit`, `Gradio`, `FastAPI`, `Flask`
-- 🎥 **Use Cases**: Real-time camera input with OpenCV, webcam inference
-- ✅ **Deployment Ideas**:
-  - Real-time emotion detector in browser
-  - GUI face recognition apps
-  - REST API for object detection
-
----
-
-### 📚 Advance to Research
-- 🔬 **Topics**: Vision Transformers (`ViT`, `DETR`, `SAM`, `DINOv2`)
-- 🧮 **Feature Methods**: Moment-based features like `Zernike` & `Hu Moments`
-- ✅ **Research Project Ideas**:
-  - Transformer-based image captioning
-  - Explainable AI for CV
-  - Real-time segmentation using SAM
 
 </details>
 
