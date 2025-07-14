@@ -146,6 +146,23 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
+<summary> <h2>Projects 03 – ⚙️ Computer Vision</h2> </summary>
+
+| 📌 Project Title | 📝 Description | 💻 Code | 🧠 Category | 🧪 To Do List | 👤 Creator | 📅 Added | ✅ Completed | 🔗 Resources |
+|------------------|----------------|---------|-------------|---------------|-------------|-----------|--------------|--------------|
+| [🌐 1 - Build a Simple Image Classifier](https://medium.com/@Coursesteach/build-a-simple-image-classifier-using-fashion-dataset-a46cd0dfcd39) | Accuracy 13–80%, Multilayer Perceptron, Keras | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Build_a_simple_image_classifier.ipynb) | Classification | Try CNN or other DL models | Dr. Mushtaq | 2020-09-06 | ☑ | — |
+| [🌐 2 - Convert Color Image to Sketch](https://medium.com/@Coursesteach/convert-color-image-to-sketch-9fd1781dce52) | Gaussian filter, dodging | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Convert_Color_Image_to_Sketchipynb.ipynb) | Filtering | Try other techniques | Dr. Mushtaq | 2024-04-20 | ☑ | — |
+| [🌐 3 - Real-Time Emotion Detection with Python](https://medium.com/@Coursesteach/building-a-real-time-emotion-detection-with-python-7fe6090a125d) | CNN accuracy: 57.67%, Keras | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Building_a_Real_Time_Emotion_Detection_with_Python.ipynb) | Classification | Real-time detection not working in Colab, Try other DL models | Dr. Mushtaq | 2024-04-27 | ☑ | — |
+| [🌐 4 - Age, Gender and Race Prediction](https://medium.com/@Coursesteach/age-gender-and-race-prediction-21acd3193bf4) | Age: ACC=0.91, Gender: 0.86, Ethnicity: 0.74 (CNN) | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Age%2C_Gender_and_Race_Prediction.ipynb) | Classification | Real-time not working in Colab, Try improved techniques | Dr. Mushtaq | 2024-06-02 | ☑ | — |
+| [🌐 5 - Image Preprocessing with Python](https://mushtaqmsit.substack.com/p/essential-techniques-for-image-data) | Python, scikit-image | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Image_Data_Preprocessing.ipynb) | Preprocessing | Add more preprocessing steps | Dr. Mushtaq | 2024-06-08 | ☑ | — |
+| [🌐 6 - Traffic Sign Classification (Keras & DL)](https://medium.com/@Coursesteach/traffic-signal-classification-with-keras-and-deep-learning-426fd895ac7e) | CNN Accuracy: 97%, OpenCV, NumPy | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects/blob/master/Traffic_Sign_Classification_with_Keras_and_Deep_Learning.ipynb) | Classification | Add preprocessing & CV techniques | Dr. Mushtaq | 2024-08-16 | ☑ | — |
+| 🌐 7 - Moment-based Feature Extraction | Zernike moments + transformer classifier | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Projects/blob/master/National%20Language%20processing/Feature_Extraction_Zernike_Moment.ipynb) | Classification | Add preprocessing and CV methods | Atharv Malusare | 2025-04-01 | ☑ | — |
+| 🌐 8 - Image-to-Image Search System | Visual search using embeddings (DEMO) | [![Colab](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Age%2C_Gender_and_Race_Prediction.ipynb) | Classification | Real-time not working in Colab, try advanced DL techniques | Dr. Mushtaq | 2024-06-02 | ⏳ Pending | [ChatGPT Demo](https://chatgpt.com/share/68732cf4-df58-800c-a873-94ad001730d9), [GitHub Repo](https://github.com/matsui528/sis) |
+
+</details>
+
+
+<details> 
 <summary> <h2>Projects 04 - ⚙️ Natural Language Processing</h2> </summary>
  
 | Project Title / Blog | Description | Notebook | Category | To-Do List | Creator | Added |Difficulty Ratings| Completed |
