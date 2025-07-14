@@ -5,8 +5,6 @@
 <img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png"></a>
 </p>
 
-<p align="center"> <img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png" width="600"> </p>
-
 Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
 
 ## 💬 Explore 100+ real-world projects in:
@@ -101,6 +99,11 @@ Together, let's make this the best AI learning hub repository! 🚀
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
+
+## 👉 Message:
+📧 mushtaqmsit@gmail.com
+💬 WhatsApp Community
+📺 YouTube Channel
 
 
 <details> 
