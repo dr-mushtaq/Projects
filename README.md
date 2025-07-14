@@ -202,6 +202,31 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
 
+## 🔄 Steps  Machine Learning Learning Roadmap
+
+| 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Libraries | 📌 Sample Projects / Ideas |
+|----------|---------------|------------------------|-----------------------------|
+| 🔰 **Foundations** | - Types of ML (Supervised, Unsupervised, RL)<br>- Data Preprocessing<br>- Feature Engineering<br>- Train/Test Split | NumPy, Pandas, Matplotlib, Scikit-learn | - Housing Price Prediction<br>- Titanic Survival Prediction<br>- Basic Classification with Sklearn |
+| 📊 **Exploratory Data Analysis (EDA)** | - Data Cleaning<br>- Outlier Detection<br>- Visualization<br>- Correlation Analysis | Seaborn, Pandas Profiling, Matplotlib | - Student Score Prediction<br>- Heart Disease Dataset Analysis<br>- Iris Dataset Insights |
+| 🔍 **Supervised Learning** | - Linear & Logistic Regression<br>- KNN<br>- Decision Trees, Random Forest<br>- SVM, Naive Bayes | Scikit-learn, XGBoost, LightGBM | - Spam Email Detection<br>- Loan Approval Prediction<br>- Customer Churn Model |
+| 🧠 **Unsupervised Learning** | - K-Means Clustering<br>- Hierarchical Clustering<br>- PCA, t-SNE<br>- Anomaly Detection | Scikit-learn, Yellowbrick | - Customer Segmentation<br>- News Topic Grouping<br>- Credit Card Fraud Detection |
+| 🔁 **Model Evaluation** | - Confusion Matrix<br>- Precision/Recall/F1<br>- ROC-AUC<br>- Cross Validation | Scikit-learn, Matplotlib | - Classifier Benchmarking<br>- Compare Models on Same Dataset<br>- K-Fold Analysis Report |
+| 🧪 **Model Optimization** | - Hyperparameter Tuning (GridSearch, RandomSearch)<br>- Feature Selection<br>- Ensemble Methods | Scikit-learn, XGBoost, Optuna | - Boosting vs Bagging Comparison<br>- AutoML Experiments<br>- LightGBM Tuning |
+| ⚙️ **Deployment & Applications** | - Model Export (Pickle, Joblib)<br>- Streamlit/Gradio UIs<br>- REST API via FastAPI/Flask | Streamlit, Flask, FastAPI, Gradio | - Interactive Loan Prediction App<br>- Resume Screening API<br>- Diabetes Prediction Web App |
+
+## 🔄 Deep Learning Learning Roadmap
+
+| 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Frameworks | 📌 Sample Projects / Ideas |
+|----------|---------------|------------------------|-----------------------------|
+| 🔰 **Foundations** | - Perceptron<br>- Activation Functions<br>- Gradient Descent<br>- Forward & Backward Propagation | NumPy, Matplotlib, Colab | - Visualize Perceptron Outputs<br>- Implement Basic Neural Network from Scratch |
+| 🧠 **Neural Networks (MLP)** | - Multilayer Perceptrons<br>- Loss Functions<br>- Optimizers (SGD, Adam)<br>- Regularization | Keras, TensorFlow, PyTorch | - MNIST Digit Classifier<br>- Stock Prediction using MLP<br>- Credit Card Fraud Detection |
+| 📸 **Convolutional Neural Networks (CNN)** | - Convolution & Pooling Layers<br>- Feature Maps<br>- Transfer Learning (VGG, ResNet)<br>- Fine-Tuning | TensorFlow, Keras, OpenCV | - Image Classifier (FashionMNIST)<br>- Traffic Sign Classification<br>- Age/Gender Detection |
+| ⏳ **Sequential Models (RNN, LSTM, GRU)** | - Time Series Modeling<br>- Sequence Classification<br>- Vanishing Gradient Problem | TensorFlow, Keras, PyTorch | - Sentiment Analysis with LSTM<br>- Fake News Detection<br>- Next Word Prediction |
+| 🤖 **Advanced Architectures** | - Autoencoders<br>- GANs (DCGAN, CycleGAN)<br>- Attention Mechanism<br>- Transformers | PyTorch, Keras, HuggingFace | - Image Denoising<br>- Text Generation<br>- BERT/GPT-based Summarization |
+| ⚡ **Model Optimization & Deployment** | - Dropout & BatchNorm<br>- Quantization<br>- ONNX Conversion<br>- Model Serving APIs | TensorFlow Lite, ONNX, Flask, Gradio | - Deploy CNN with Streamlit<br>- Real-time Face Detection on Edge Device<br>- API for Image Inference |
+| 📚 **Research & Real-world Applications** | - Explainability (Grad-CAM, SHAP)<br>- Few-shot & Zero-shot Learning<br>- Foundation Models (CLIP, SAM) | PyTorch, Hugging Face, OpenAI API | - Visual Explanations with Grad-CAM<br>- LLM for Vision & Language Tasks<br>- Custom Training Pipelines |
+
+
 ## 🔄 Computer Vision Learning Roadmap
 
 | 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Frameworks | 📌 Sample Projects / Ideas |
@@ -223,17 +248,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | ⚡ **Deploy & Integrate** | - REST APIs<br>- Chatbots<br>- Streamlit/Gradio UI | FastAPI, Flask, Gradio, Streamlit | - Chatbot with Feedback Logs<br>- Resume Screening App<br>- Stress Detection Tool |
 | 📚 **Research & Advanced Topics** | - Transfer Learning<br>- Few-shot/Zero-shot NLP<br>- Prompt Engineering<br>- Explainable NLP | OpenAI, LLaMA, LangChain | - Hybrid Summarizer with Transformers<br>- Custom Dataset Fine-Tuning<br>- LLM-Powered Feedback Analyzer |
 
-## 🔄 Deep Learning Learning Roadmap
 
-| 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Frameworks | 📌 Sample Projects / Ideas |
-|----------|---------------|------------------------|-----------------------------|
-| 🔰 **Foundations** | - Perceptron<br>- Activation Functions<br>- Gradient Descent<br>- Forward & Backward Propagation | NumPy, Matplotlib, Colab | - Visualize Perceptron Outputs<br>- Implement Basic Neural Network from Scratch |
-| 🧠 **Neural Networks (MLP)** | - Multilayer Perceptrons<br>- Loss Functions<br>- Optimizers (SGD, Adam)<br>- Regularization | Keras, TensorFlow, PyTorch | - MNIST Digit Classifier<br>- Stock Prediction using MLP<br>- Credit Card Fraud Detection |
-| 📸 **Convolutional Neural Networks (CNN)** | - Convolution & Pooling Layers<br>- Feature Maps<br>- Transfer Learning (VGG, ResNet)<br>- Fine-Tuning | TensorFlow, Keras, OpenCV | - Image Classifier (FashionMNIST)<br>- Traffic Sign Classification<br>- Age/Gender Detection |
-| ⏳ **Sequential Models (RNN, LSTM, GRU)** | - Time Series Modeling<br>- Sequence Classification<br>- Vanishing Gradient Problem | TensorFlow, Keras, PyTorch | - Sentiment Analysis with LSTM<br>- Fake News Detection<br>- Next Word Prediction |
-| 🤖 **Advanced Architectures** | - Autoencoders<br>- GANs (DCGAN, CycleGAN)<br>- Attention Mechanism<br>- Transformers | PyTorch, Keras, HuggingFace | - Image Denoising<br>- Text Generation<br>- BERT/GPT-based Summarization |
-| ⚡ **Model Optimization & Deployment** | - Dropout & BatchNorm<br>- Quantization<br>- ONNX Conversion<br>- Model Serving APIs | TensorFlow Lite, ONNX, Flask, Gradio | - Deploy CNN with Streamlit<br>- Real-time Face Detection on Edge Device<br>- API for Image Inference |
-| 📚 **Research & Real-world Applications** | - Explainability (Grad-CAM, SHAP)<br>- Few-shot & Zero-shot Learning<br>- Foundation Models (CLIP, SAM) | PyTorch, Hugging Face, OpenAI API | - Visual Explanations with Grad-CAM<br>- LLM for Vision & Language Tasks<br>- Custom Training Pipelines |
 
 
 
