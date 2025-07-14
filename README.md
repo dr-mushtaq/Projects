@@ -201,6 +201,16 @@ Together, let's make this the best AI learning hub repository! 🚀
 
 <details> 
 <summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
+
+## 🔄 Computer Vision Learning Roadmap
+
+| 🧠 Stage | 🔍 Key Topics | ⚙️ Tools & Frameworks | 📌 Sample Projects / Ideas |
+|----------|---------------|------------------------|-----------------------------|
+| 🧪 **Preprocessing** | - Edge Detection<br>- Filters (Gaussian, Median)<br>- Thresholding<br>- Contours & Morphology | OpenCV, scikit-image, matplotlib | - Convert Color Image to Sketch<br>- Edge & Contour Detection<br>- Histogram Equalization |
+| 🧠 **Deep Learning** | - CNN Architectures<br>- Object Detection (YOLO, SSD)<br>- Image Segmentation (U-Net)<br>- Feature Extraction & Augmentation | TensorFlow, Keras, PyTorch | - Real-Time Emotion Detection<br>- Age, Gender & Race Prediction<br>- Traffic Sign Classification |
+| ⚡ **Deploy & Integrate** | - Convert Models to Web Apps<br>- Real-Time Video Feed Processing<br>- RESTful APIs | Streamlit, Gradio, FastAPI, Flask, OpenCV | - Real-Time CV App with Webcam<br>- Streamlit Dashboard for Image Classification<br>- Gradio-powered Detection Tool |
+| 📚 **Research & Advanced CV** | - Vision Transformers (ViT, DETR, SAM, DINOv2)<br>- Zernike & Hu Moments<br>- Few-shot Learning | Hugging Face Transformers, OpenCV, PyTorch | - SAM-based Real-Time Segmentation<br>- Zernike Feature-Based Classifier<br>- ViT for Scene Classification |
+
  
 ## 🔄 Computer Vision Learning Roadmap
 
