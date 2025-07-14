@@ -200,9 +200,19 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
+<summary> <h2>⚙🎓 Complete AI & Python Learning Roadmap (Phase 1–5)</h2> </summary>
 
-## 🔄 Phase1- Python Learning Roadmap
+## 🗂️ Learning Roadmap Overview
+
+Jump to a Phase:
+- [Phase 1: Python Programming 🐍](#phase1--python-learning-roadmap)
+- [Phase 2: Machine Learning 📊](#phase-2--machine-learning-learning-roadmap)
+- [Phase 3: Deep Learning 🧠](#phase-3--deep-learning-learning-roadmap)
+- [Phase 4: Computer Vision 📸](#phase-4--computer-vision-learning-roadmap)
+- [Phase 5: NLP & LLMs 💬](#phase-5--natural-language-processing-learning-roadmap)
+
+
+## 🔄 Phase 1 – Python Learning Roadmap
 
 | 🧠 Stage | 🔍 Key Topics | ⚙️ Tools / Libraries | 📌 Sample Projects / Ideas |
 |----------|---------------|------------------------|-----------------------------|
