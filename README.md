@@ -202,12 +202,51 @@ Together, let's make this the best AI learning hub repository! 🚀
 <details> 
 <summary> <h2>⚙Roadmap or Learning Path</h2> </summary>
  
-## 🗺️ Suggested Learning Path
-1. 🟢 Start with ML Projects → Classification → Clustering->Regression
-2.                            ->Python->Sklearn->Colab or VSCode
-3. 🟡 Move to Deep Learning and Computer Vision
-4. 🔴 Advance into NLP, Transformers, and Research Projects
+## 🔄 Computer Vision Learning Roadmap
+
+<details open>
+<summary>📌 Click to Expand the Learning Path</summary>
+
+### 🧪 Start with Preprocessing
+- 📷 **Techniques**: Edge detection, filters, thresholding, contours
+- 🧰 **Tools**: `OpenCV`, `scikit-image`, `matplotlib`
+- ✅ **Example Projects**:
+  - Convert Image to Sketch
+  - Histogram Equalization
+  - Edge & Contour Detection
+
+---
+
+### 🧠 Move to Deep Learning
+- 🧠 **Topics**: CNNs, object detection (YOLO, SSD), segmentation (U-Net), feature extraction
+- 🧰 **Frameworks**: `TensorFlow`, `PyTorch`, `Keras`
+- ✅ **Example Projects**:
+  - Traffic Sign Classification
+  - Emotion Detection with CNN
+  - Age/Gender Prediction
+
+---
+
+### ⚡ Deploy & Integrate
+- 🌐 **Convert Models To**: `Streamlit`, `Gradio`, `FastAPI`, `Flask`
+- 🎥 **Use Cases**: Real-time camera input with OpenCV, webcam inference
+- ✅ **Deployment Ideas**:
+  - Real-time emotion detector in browser
+  - GUI face recognition apps
+  - REST API for object detection
+
+---
+
+### 📚 Advance to Research
+- 🔬 **Topics**: Vision Transformers (`ViT`, `DETR`, `SAM`, `DINOv2`)
+- 🧮 **Feature Methods**: Moment-based features like `Zernike` & `Hu Moments`
+- ✅ **Research Project Ideas**:
+  - Transformer-based image captioning
+  - Explainable AI for CV
+  - Real-time segmentation using SAM
+
 </details>
+
 
 
 <details> 
