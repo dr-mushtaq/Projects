@@ -311,6 +311,11 @@ Jump to a Phase:
 |---|---|---|
 |[**🌐1- Machine Learning and LLM System Design Case Studies**](https://www.hubnx.com/nodes/9fffa434-b4d0-47d2-9e66-1db513b1fb97)|500+ Case Studies of Machine Learning and LLM System Design|---|
 
+##  🔹Chapter2: - **Top Colab Notebooks**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Top Computer Vision Google Colab Notebooks**](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)|Here is a list of the top google colab notebooks that use computer vision to solve a complex problem such as object detection, classification etc:|---|
+
 
 </details>
 
