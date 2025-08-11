@@ -306,6 +306,7 @@ Jump to a Phase:
 |[**🌐1- Prasad Jadhav**](https://github.com/prasadmjadhav2?tab=repositories)|It contains important projects|---|
 |[**🌐2- NLP-Projects**](https://github.com/gaoisbest/NLP-Projects)|Natural Language Processing projects, which includes concepts and scripts about:|---|
 |[**🌐3- Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
+|[**🌐4-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
