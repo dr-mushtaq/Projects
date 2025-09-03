@@ -307,6 +307,7 @@ Jump to a Phase:
 |[**🌐2- NLP-Projects**](https://github.com/gaoisbest/NLP-Projects)|Natural Language Processing projects, which includes concepts and scripts about:|---|
 |[**🌐3- Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
 |[**🌐4-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
+|[**🌐5-Machine Learning and NLP with Python**]([https://github.com/NirDiamant/GenAI_Agents](https://github.com/susanli2016/Machine-Learning-with-Python))|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
