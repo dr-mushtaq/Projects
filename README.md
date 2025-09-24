@@ -2,7 +2,7 @@
 ## **🔍 A-Z Guide to Machine Learning & Computer Vision Projects | Deep Learning | NLP | Research👋🛒**
 
 <p align="center">
-<img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png"></a>
+<img src="https://github.com/dr-mushtaq/Projects/blob/master/1758590539226%20(1).jfif"></a>
 </p>
 
 Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
