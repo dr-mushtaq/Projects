@@ -324,7 +324,8 @@ Jump to a Phase:
 
 </details>
 
-
+<details> 
+<summary> <h2> Others Resources </h2> </summary>
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
