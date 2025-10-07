@@ -169,14 +169,16 @@ Together, let's make this the best AI learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Projects 05 - ⚙️Python </h2> </summary>
- 
-| Project Title | Description | Code |Created|Completed
-|---|---|---|---|---|
-|[**🌐1-Generating QR Code in Python**](https://medium.com/@Coursesteach/generating-qr-code-in-python-b2e270422637) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb)|Saad Abbasi|☑ |
-|[**🌐2-Important Python Script**](https://medium.com/@Coursesteach/important-python-scripts-to-save-your-time-1bb839cd7600) | Python,qrcode | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb)|Saad Abbasi|☑ |
-|[**🌐3-Statistical App in Streamlit**](https://www.statology.org/how-to-build-a-simple-statistical-app-in-streamlit/) | The app we’ll build won’t just show basic stats like mean and median; that’s too easy. Instead, we’ll create a more advanced tool that loads a CSV dataset and allows users to explore descriptive statistics, correlation heatmaps, and distribution plots, with options to filter data by column types, select variables, and even compare multiple variables visually. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb)|Saad Abbasi|Pending|
+  <summary> <h2>Projects 05 - ⚙️ Python</h2> </summary>
+
+  | Project Title | Description | Code | Created | Difficulty | Status |
+  |---|---|---|---|---|---|
+  | [**🌐 1 - Generating QR Code in Python**](https://medium.com/@Coursesteach/generating-qr-code-in-python-b2e270422637) | Generate customized QR codes easily using Python's `qrcode` library. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb) | Saad Abbasi | 🟢 Beginner | ☑ Completed |
+  | [**🌐 2 - Important Python Scripts**](https://medium.com/@Coursesteach/important-python-scripts-to-save-your-time-1bb839cd7600) | A collection of time-saving Python scripts for automation, file handling, and productivity. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb) | Saad Abbasi | 🟡 Intermediate | ☑ Completed |
+  | [**🌐 3 - Statistical App in Streamlit**](https://www.statology.org/how-to-build-a-simple-statistical-app-in-streamlit/) | Build a powerful data exploration app in Streamlit that supports descriptive statistics, correlation heatmaps, and visual comparisons between multiple variables. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Important_Python_script.ipynb) | Saad Abbasi | 🔵 Advanced | ⏳ Pending |
+
 </details>
+
 </details>
 
 <details> 
