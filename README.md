@@ -88,6 +88,9 @@ Contributions are encouraged and appreciated! Whether it's adding new projects, 
 Together, let's make this the best AI learning hub repository! 🚀
 
                           https://coursesteach.com/
+
+Please read our [Contributing Guidelines](./CONTRIBUTING.md) before submitting a pull request.
+
 ## **🌍 Join Our Community**
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
