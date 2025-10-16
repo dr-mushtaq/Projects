@@ -7,7 +7,8 @@
 
 Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
 
-<h2>📘 Lessons Learned from Starting a Side Project</h2> [Video](https://www.youtube.com/watch?v=7LjierM3DHE&list=PLLC7bmONapvAma_UxMo8FSCPzZDylWQli)
+<h2>📘 Lessons Learned from Starting a Side Project</h2>
+[Video](https://www.youtube.com/watch?v=7LjierM3DHE&list=PLLC7bmONapvAma_UxMo8FSCPzZDylWQli)
 
 <div>
 <h2>💖 Sponsors</h2>
