@@ -54,6 +54,12 @@ Thank you for your generous support! 🌟
 
 ---
 
+ ## Quick Start Checklist with Links
+
+- Subscribe to [Couresesteach on YouTube](https://www.youtube.com/watch?v=A6KWIhgiyK) and review the [course playlist](https://www.youtube.com/playlist?list=PLLC7bmONapvAma_UxMo8FSCPzZDylWQli).
+- Lessons Learned from Starting a Side Project [Video](https://youtu.be/7LjierM3DHE?si=crM0hYsn_x5yDfIx).
+- Enroll in Complete Pyhton Courese [Introduction to Python!](https://coursesteach.com/course/view.php?id=4) to Solve quiz and find extr resources.   
+
 ## 💬 Explore 100+ real-world projects in:
 Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and AI-powered Research.
 
