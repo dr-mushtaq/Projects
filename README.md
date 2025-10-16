@@ -7,6 +7,50 @@
 
 Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
 
+<div>
+<h2>💖 Sponsors</h2>
+
+<p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
+
+<h3>Current Sponsor</h3>
+<hr />
+<div align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png" />
+      <!-- Light mode (fallback) -->
+      <a href="https://innovitechs.com/" target="_blank">
+      <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+      </a>
+    </picture>
+  </a>
+
+  <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
+  <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
+
+</div>
+
+**Your support helps us:**
+
+- Create free tutorials, guides, and datasets for learners worldwide 🌍
+- Maintain research repositories and AI projects 📚
+- Host workshops, webinars, and community learning events 💬
+- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
+---
+
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+
+Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
+---
+
 ## 💬 Explore 100+ real-world projects in:
 Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and AI-powered Research.
 
