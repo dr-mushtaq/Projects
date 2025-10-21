@@ -32,4 +32,7 @@ This will create a copy of this repository in your account.
 
   <img align="right" width="700" src="https://github.com/dr-mushtaq/Projects/blob/master/compare-and-pull.png" alt="clone this repository" />
 
+  <img align="right" width="700" src="https://github.com/dr-mushtaq/Projects/blob/master/submit-pull-request.png" alt="clone this repository" />
+
+
 
