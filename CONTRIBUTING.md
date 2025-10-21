@@ -2,9 +2,19 @@
 
 Thank you for your interest in contributing! 🎉  
 We welcome all contributions — from improving code to adding new projects and resources.
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 ## 1. Getting Started
+
+## Fork this repository
+
+Fork this repository by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
 - Fork the repo and clone it to your machine.
+
+  ## Clone the repository
+
+<img align="right" width="300" src="assets/images/clone.png" alt="clone this repository" />
 - Create a new branch: `git checkout -b feature/your-feature-name`.
 - Make your changes and test them locally.
 
