@@ -12,11 +12,8 @@ Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 - Fork the repo and clone it to your machine.
 
-  ## Clone the repository
+<img align="right" width="300" src="https://github.com/dr-mushtaq/Projects/blob/master/fork.png" alt="clone this repository" />
 
-<img align="right" width="300" src="assets/images/clone.png" alt="clone this repository" />
-- Create a new branch: `git checkout -b feature/your-feature-name`.
-- Make your changes and test them locally.
 
 ## 2. Adding New Projects
 - Add your notebook under the correct folder (ML, DL, CV, NLP, etc.).
