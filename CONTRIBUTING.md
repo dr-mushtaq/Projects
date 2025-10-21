@@ -30,6 +30,6 @@ This will create a copy of this repository in your account.
 - Clearly explain what you changed.
 - Wait for a review before merging.
 
-  <img align="right" width="500" src="https://github.com/dr-mushtaq/Projects/blob/master/compare-and-pull.png" alt="clone this repository" />
+  <img align="right" width="700" src="https://github.com/dr-mushtaq/Projects/blob/master/compare-and-pull.png" alt="clone this repository" />
 
 
