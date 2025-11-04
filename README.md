@@ -373,6 +373,11 @@ Jump to a Phase:
 |---|---|---|
 |[**🌐1- Machine Learning and LLM System Design Case Studies**](https://www.hubnx.com/nodes/9fffa434-b4d0-47d2-9e66-1db513b1fb97)|500+ Case Studies of Machine Learning and LLM System Design|---|
 
+##  🔹Chapter2: - **Important Youtube Channel**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1-Yannic Kilcher**](https://www.youtube.com/@YannicKilcher)|500+ Case Studies of Machine Learning and LLM System Design|---|
+
 ##  🔹Chapter2: - **Top Colab Notebooks**
 | Title/link| Description | Code |
 |---|---|---|
