@@ -376,6 +376,7 @@ Jump to a Phase:
 | Title/link| Description | Code |
 |---|---|---|
 |[**🌐1- Machine Learning and LLM System Design Case Studies**](https://www.hubnx.com/nodes/9fffa434-b4d0-47d2-9e66-1db513b1fb97)|500+ Case Studies of Machine Learning and LLM System Design|---|
+|[**🌐2- 21 AI Projects You Must Include in Your AI Resume in 2026**](https://www.interviewquery.com/p/ai-project-ideas)|500+ Case Studies of Machine Learning and LLM System Design|---|
 
 ##  🔹Chapter2: - **Important Youtube Channel**
 | Title/link| Description | Code |
