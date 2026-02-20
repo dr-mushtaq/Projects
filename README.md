@@ -372,6 +372,7 @@ Jump to a Phase:
 |[**🌐5-Machine Learning and NLP with Python**]([https://github.com/NirDiamant/GenAI_Agents](https://github.com/susanli2016/Machine-Learning-with-Python))|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
 |[**🌐6-ML System Design Case Studies Repository**](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)|A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more|---|
 |[**🌐7-100_Days_100_IoT_Projects**](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/tree/main)|This repo showcases my journey of learning and implementing IoT & Embedded Systems projects using ESP32, Raspberry Pi Pico, and MicroPython.|---|
+|[**🌐8-AI Engineering Hub**](https://github.com/patchy631/ai-engineering-hub/tree/main)|AI Engineering Hub - your comprehensive resource for learning and building with AI!.|---|
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
