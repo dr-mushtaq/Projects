@@ -365,6 +365,8 @@ Jump to a Phase:
 |[**20-Learn to Create AI Voice Assistant (JARVIS) With Python**](https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?im_ref=zU9VMAStxxycRnFTVA2iK3QzUku1g71400000w0&sharedid=&irpid=6778825&utm_medium=affiliate&utm_source=impact&utm_audience=mx&utm_tactic=%22Content%22%2C%22India%22&utm_content=3193860&utm_campaign=6778825&irgwc=1&afsrc=1)|7 free and hands-on Generative AI projects|---|
 |[**21-How to Build an AI-Powered RAG Chatbot with Amazon Lex, Bedrock, and S3**](https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-chatbot/?fbclid=IwY2xjawQ_JAlleHRuA2FlbQIxMABicmlkETFNTXFITXlFYWpHNXMzbUZac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHq_3lsAQgP2iSb1QBuESK-ixImkqoHLEyEAzlv7BZR9YDjOuDTH9HnUEafYF_aem_v4V5ONlbXB8HtKbsgXXd8w)|7 free and hands-on Generative AI projects|---|
 |[**22-LLM Projects for Absolute Beginners**](https://amanxai.com/2026/04/17/llm-projects-for-absolute-beginners/?fbclid=IwY2xjawROwZ5leHRuA2FlbQIxMQBicmlkETF6VTllWDEzRzhaY1lCbjMwc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjHBEccxMsLx7ImUoyuHnjLOyPxh3Z-65Tunm0ZZhBdpefeDH5exv-146VZ2_aem_VnXjPI1-Q55uIiU6AD6uwA)|7 free and hands-on Generative AI projects|---|
+|[**23-How to Build an AI Study Planner Agent using Gemini in Python**](https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/?fbclid=IwY2xjawRdAYBleHRuA2FlbQIxMABicmlkETFocGdVUmRtT1piRVRseHFNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjNHvOCidvt103McMVB6KkOVeBpmfElBTRt0yrx9CRri9GZ99sIX9c6XfKIA_aem_4XRDXqfRCf7x_pKDRAio-A)|7 free and hands-on Generative AI projects|---|
+
 
 ##  🔹Chapter2: - **Github**
 | Title/link| Description | Code |
