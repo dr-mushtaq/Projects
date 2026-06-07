@@ -386,6 +386,11 @@ Jump to a Phase:
 |[**🌐1- Machine Learning and LLM System Design Case Studies**](https://www.hubnx.com/nodes/9fffa434-b4d0-47d2-9e66-1db513b1fb97)|500+ Case Studies of Machine Learning and LLM System Design|---|
 |[**🌐2- 21 AI Projects You Must Include in Your AI Resume in 2026**](https://www.interviewquery.com/p/ai-project-ideas)|500+ Case Studies of Machine Learning and LLM System Design|---|
 
+##  🔹Chapter2: - **Important Tutorials**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1-I Built 5 Learning Apps With NotebookLM and Gemini From Youtube Videos (Zero Code)**](https://github.com/dr-mushtaq/Projects/blob/master/%F0%9F%93%9A%20Tutorials/I%20Built%205%20Learning%20Apps%20With%20NotebookLM%20and%20Gemini%20From%20Youtube%20Videos%20(Zero%20Code).md)|500+ Case Studies of Machine Learning and LLM System Design|---|
+
 ##  🔹Chapter2: - **Important Youtube Channel**
 | Title/link| Description | Code |
 |---|---|---|
