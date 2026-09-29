@@ -235,6 +235,16 @@ Please read our [Contributing Guidelines](./CONTRIBUTING.md) before submitting a
 </details>
 
 <details> 
+  <summary> <h2>Projects 05 - ⚙️ LLM</h2> </summary>
+
+  | Project Title | Description | Code | Created | Difficulty | Status |
+  |---|---|---|---|---|---|
+  | [**🌐 1 - CI/CD Pipeline for LLM Applications**](https://amanxai.com/2026/09/27/setting-up-a-ci-cd-pipeline-for-llm-applications/?fbclid=IwY2xjawUoztVleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6Wl3rOXzC6s2opvbXb1KdVfsjW3RSiPU0T0F-J28LwEFcdHCz2vT3IC-2Jig_aem_OLsHnEfFcZYloAkJfGgbTQ) | Generate customized QR codes easily using Python's `qrcode` library. | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/QR_Code_Generation_using_Python.ipynb) | Saad Abbasi | 🟢 Beginner | ☑ Pending |
+ 
+
+</details>
+
+<details> 
   <summary> <h2>Projects 05 - ⚙️ Anomaly Detection</h2> </summary>
 
   | Project Title | Description | Code | Created | Difficulty | Status |
