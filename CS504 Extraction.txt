@@ -1,0 +1,312 @@
+                        Lecture No. 1
+             Introduction to Software Engineering
+1.1 Introduction
+What is Software?
+ Program: 
+ Data: 
+ Documentation: 
+ Why is it important?
+Major areas in software:
+ Business decision-making:
+ Modern scientific investigation and engineering problem solving: 
+ Games: 
+ Embedded systems: 
+ Engineering
+1.2 Difference between Computer Science and Software Engineering
+ Difference between Software and Other Systems
+Distinguishes a software system from other systems:
+          Other Systems	                                                Software
+Cars, TVs, bulbs etc. are physical systems.	             Software is a non-physical system.
+They can wear out with time due to wear and tear.	     Software does not wear out with time.
+Their physical parts can become damaged or fused.	     Software problems are called bugs/defects.
+A damaged part can usually be replaced to fix the system.    A bug cannot simply be fixed by getting a new copy/CD if the same bug exists in it.
+They have a limited physical life.	                     Software does not have a physical life based on wear and tear.
+Example: fused bulb → replace bulb → works again.	     Example: buggy software → new copy with same bug → still buggy.
+1.4 Software Crisis
+It's results:
+More Complex Software Applications
+1.5 Software Engineering as defined by IEEE
+both definitions are imp
+1.5  Software Engineering
+Things that are used in software production:
+Well-Engineered Software
+ characteristics:
+well-engineered software:
+The Balancing Act!
+Challenge is to balance these requirements.
+Software Background
+                   Lecture No. 02
+         Introduction to Software Development
+2.1 Software Development
+Construction
+Management
+2.2 A Software Engineering Framework
+Quality Focus: 
+Processes: 
+Methods:
+Tools:
+2.3  Software Development Loop
+Problem Definition:
+Technical Development: 
+Solution Integration: 
+Status Quo: 
+2.4 Software Engineering Phases
+Vision:
+Definition: 
+Development: 
+Maintenance: 
+                 Lecture No. 3
+            Requirement Engineering
+Software Requirements Definitions
+Jones
+Alan Davis 
+IEEE 
+3.2 Importance of Requirements
+3.3 Role of Requirements
+                 Lecture No. 4
+          Requirement Engineering-2
+3.4 Some Risks from Inadequate Requirement Process
+List of some of the risks of adopting an inadequate requirement process:
+Levels of Software Requirements
+1. Business Requirements:
+2. User Requirements:
+3. Functional Requirements:
+4. Non-Functional Requirements
+Stakeholders
+Requirement Statement Characteristics
+ Complete
+ Correct 
+ Feasible
+ Necessary
+ Prioritized 
+ Unambiguous 
+ Verifiable
+Requirement Specification Characteristics
+ Complete 
+ Consistent 
+ Modifiable 
+ Traceable
+              lecure No. 5
+Relationship Requirements  of several components of Software 
+Diagram
+Scope
+The Context Diagram(Long Question)
+def:
+Context  Diagram define all the external activities interact with our system.
+3.8 Use Case Model Components
+              Lecture No. 6
+Use Diagram for a Library System
+Library System
+Creating a Use Case Model
+3.9 Relationship among Use Cases
+ two different fashions: 
+->extends
+-> uses
+3.10 Elaborated Use Cases
+Use Case Name
+Implementation Priority: 
+Actors: 
+Summary: 
+Precondition:
+Post-Condition:
+Extend:
+Uses:
+Normal Course of Events:
+Alternative Path: 
+Exception: 
+Assumption: 
+example, the Delete Information use case:
+Use Case Name:
+Priority:
+Actors: 
+Summary: 
+Preconditions: 
+Post-Conditions: 
+Uses: 
+Extends:
+Normal Course of Events:
+Alternative Path - The user does not confirm Deletion 
+Exceptions: 
+Assumptions:
+3.11 Alternative Ways of Documenting the Use Case
+3.12 Activity Diagrams
+3.13 Limitations of Use Cases 
+ Usability
+ Reliability
+ Performance
+ Portability
+ Access
+                    Lecture No. 7
+
+3.14 Source and sink analysis
+Source(e.g: Teacher Input result on result card)
+Sink(e.g: checking of result by student will consider as output )
+Domain Models
+Understanding the business domain
+4.2 Logical System Models
+Business process model
+Process described in diagram 
+                   Lecture No.8
+           State Transition Diagrams
+(STDs)
+A Trouble report and its life cycle – and introduction
+Trouble report states and status(Long/Short)
+Queued
+Open/active
+Deferred
+Cleared
+Closed
+Disabled
+Arranging information in tabular form
+External Inputs 
+External Outputs
+External Inquiry
+PI – Primary intent; M – may be; N/A – not allowed.
+Data Flow Model 
+The Notation
+Four different shapes 
+Process
+External Agent
+Data Store
+DFD versus Flow Charts
+Data Flow Model – Bank Account Management 
+System
+            Lecture No. 9
+CRUD Operations
+Create
+Read
+Update
+Delete
+Context Level Data Flow Diagram
+Detailed Data Flow diagrams
+Patient Monitoring System – A Data Flow Modeling 
+Example
+Context Diagram
+Patient Monitoring System – Level 1 Data Flow 
+Diagram
+Central Monitoring System – Level 2 Data Flow 
+Diagram
+4.5 Common Mistakes in Data Flow Diagrams
+Illegal Data Flows(L.Q)
+Directly Communicating External Agents
+->External Agent updating information in a Data 
+Store
+->External Entity that wants to store/update 
+some information directly in a data store,
+->External Agent accessing information from a Data 
+Store
+->Copying data to a data store
+               Lecture No. 10
+           Prototyping and GUI Design
+Motivation for GUI
+Pitfalls of using GUIs in Functional Specifications
+Prototype
+               Lecture No. 11
+               Software Design
+6.1 Introduction
+6.2 Managing Complexity of a Software System
+Software Design Process
+Software Design Strategies
+1.functional or structured design
+2. object oriented design
+Software Design Qualities
+Maintainable Design
+               Lecture No. 12
+6.3 Coupling and Cohesion
+High Coupling
+Low Coupling
+Example of Cohesion
+6.4 Abstraction and Encapsulation
+6.5 Function Oriented versus Object Oriented Design
+              Lecture No. 13
+Object Oriented Analysis and Design
+Object Oriented Design - Why?
+Key advantages which make the object-oriented technology significantly attractive :
+Difference between object-oriented and function-oriented design
+Data
+Object Oriented Design Components - What?
+The Object and the Class
+Classification
+Data-Driven
+Behavior-Driven
+Responsibility-Driven
+The Object Model
+Relationship Among Objects
+Relationships: Inheritance, association and aggregation
+Association and Aggregation - Some basic differences
+             Lecture No. 14
+Object Oriented Analysis
+1) Static Model
+2) Dynamic Model
+Object Oriented Design
+1) The subsystem layer. 
+2) The class and object layer.
+3) The message layer.
+4) The responsibility layer. 
+Representation of Analysis vs design model
+Object-Oriented Analysis using Abbot’s Textual Analysis
+ table shows this scheme.
+            Lecture No. 15
+The Notation 
+ UML(Unified Modeling 
+Language).
+           Lecture No. 16
+Derivation of the Object Model – The Coad Methodology
+Peter Coad has divided the process into 5 activities:
+1.Select Objects – who am I?
+a)Select actors
+b)Select Participants
+c)Select Places
+d)Select Transactions
+e)Select Container Objects
+f)Select Tangible things
+          Lecture No. 17
+2.Identify Structures
+Two type of structures:
+Generalization
+Specialization 
+3.Define Attributes - What I Know?
+def,example
+4.Show Collaborations (associations and aggregations) - Who I 
+know?
+5.Define Services - What I do?
+         Lecture No. 18
+CASE STUDY: Connie’s Convenience Store - A point of 
+Sale System
+The System
+Identify the purpose of the system
+Connie’s Wish List
+Why ?
+Summary
+Identify system features
+Identify features for logging important information
+Identify features for conducting business
+Identify features for analyzing business results
+Identify features for working with interacting systems
+SELECTING OBJECTS
+Select Actors
+Select Participants
+Select Places
+Select Transactions
+Select Container Classes
+Select Tangible Things
+Session
+       Lecture No. 19
+Identify Structures
+Identify Gen-Spec Structures 
+Identify Whole-Part Structures
+Establishing Responsibilities 
+Who I Know - Rules of Thumb
+Define Attributes, Services, and Links - What I know, What I do, and Who I 
+know?
+Actors: 
+Participants:
+Places:
+Tangible things:
+Transactions:
+sale
+payment - we have types of payments Attributes:
+Services: who I know:
+session Attributes:
+Services:
+Object Model Diagram for Connie’s Convenience Store
