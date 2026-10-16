@@ -6,40 +6,6 @@ Welcome to the repository covering a wide array of topics including Machine Lear
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
-<div>
-<h2>💖 Sponsors</h2>
-
-<p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
-
-<h3>Current Sponsor</h3>
-<hr />
-<div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png" />
-      <!-- Light mode (fallback) -->
-      <a href="https://innovitechs.com/" target="_blank">
-      <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png"
-           width="400px"
-           alt="Wispr Flow Logo"
-           title="Wispr Flow" />
-      </a>
-    </picture>
-  </a>
-
-  <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
-  <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
-
-</div>
-
-**Your support helps us:**
-
-- Create free tutorials, guides, and datasets for learners worldwide 🌍
-- Maintain research repositories and AI projects 📚
-- Host workshops, webinars, and community learning events 💬
-- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
----
 
 ### 🙌 Become a Sponsor
 
@@ -143,10 +109,6 @@ Please read our [Contributing Guidelines](./CONTRIBUTING.md) before submitting a
 ## **🌍 Join Our Community**
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
-
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
